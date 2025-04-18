@@ -30,25 +30,21 @@ for dir in "${challenge_dirs[@]}"; do
     fi
 done
 
-# Generate README content
-cat > "$README" <<EOF
-# Dev Challenges
-
-A collection of weekly coding challenges. Each challenge is contained in its own directory, organized by week.
-
-## 🆕 Latest Challenge
-
-**[$latest_pretty](./$latest)**
-
-## 🗂 All Challenges
-
-### ✅ Published Challenges
-$challenge_list
-
-### 🔜 Upcoming Challenges
-$upcoming_list
-
-EOF
+# Generate README content using printf to properly handle newlines
+{
+    printf "# Dev Challenges\n\n"
+    printf "A collection of weekly coding challenges. Each challenge is contained in its own directory, organized by week.\n\n"
+    
+    printf "## 🆕 Latest Challenge\n\n"
+    printf "**[$latest_pretty](./$latest)**\n\n"
+    
+    printf "## 🗂 All Challenges\n\n"
+    printf "### ✅ Completed Challenges\n"
+    printf "%s\n" "$challenge_list"  # Print the completed challenges
+    
+    printf "### 🔜 Upcoming Challenges\n"
+    printf "%s\n" "$upcoming_list"  # Print the upcoming challenges
+} > "$README"
 
 echo "✅ README updated with latest challenge: $latest_pretty"
 
