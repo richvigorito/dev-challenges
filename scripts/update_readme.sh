@@ -22,11 +22,11 @@ for dir in "${challenge_dirs[@]}"; do
     #
     pretty=$(echo "$name" | sed -E 's/week([0-9]+)_?([a-zA-Z0-9_]*)/Week \1 - \2/' | sed 's/_/ /g')
     if [[ -f "$dir/README.md" || -f "$dir/readme.md" ]]; then
-        challenge_list+="- [$pretty](./$name)\n"
+        challenge_list+="- [$pretty](./$name)<br>"
         latest="$name"
         latest_pretty="$pretty"
     else
-        upcoming_list+="- $pretty\n"
+        upcoming_list+="- $pretty<br>"
     fi
 done
 
