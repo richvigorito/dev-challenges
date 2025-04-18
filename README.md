@@ -4,8 +4,8 @@ A collection of weekly coding challenges. Each challenge is contained in its own
 
 ## 🆕 Latest Challenge
 
-**[Week 1 - math without math](./week1_math_without_math)**
+**[Week 2 - string reverser](./week2_string_reverser)**
 
 ## 🗂️ All Challenges
 
-- [Week 1 - math without math](./week1_math_without_math)\n
+- [Week 1 - math without math](./week1_math_without_math)\n- [Week 2 - string reverser](./week2_string_reverser)\n
