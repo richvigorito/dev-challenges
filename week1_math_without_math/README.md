@@ -1,6 +1,6 @@
 # Dev Challenge 001 - Arithmetic From Scratch
 
-Implement a basic arithmetic library **using recursion and bitwise operations only** — no `+`, `-`, `*`, `/`, `%`, or built-in math functions allowed!
+Implement a basic arithmetic library using **only recursion and very limited operators** — no `+`, `-`, `*`, `/`, `%`, or built-in math functions allowed!
 
 This is a great warm-up for teams to stretch their problem-solving muscles and think about how computation really works under the hood.
 
@@ -8,39 +8,37 @@ This is a great warm-up for teams to stretch their problem-solving muscles and t
 
 ## 💡 The Challenge
 
-Implement the following functions using only recursion and bitwise operations (e.g. `<<`, `>>`, `&`, `|`, `^`, `~`):
+Using only the following:
 
-- `incr(n)` – Increment
-- `decr(n)` – Decrement
+- Unary minus (`-x`)
+- Auto-increment (`++`)
+- Auto-decrement (`--`)
+
+Re-implement core arithmetic operations:
+
 - `add(a, b)` – Addition
 - `sub(a, b)` – Subtraction
 - `mult(a, b)` – Multiplication
 - `div(a, b)` – Integer Division (truncate toward zero)
-- `modulo(a, b)` – Modulus (remainder after division)
-- `fact(n)` – Factorial
+- `modulo(a, b)` – Modulus (hint: this will help with division)
 - `exponent(a, b)` – Exponentiation (`a` to the power of `b`)
-- `quotient(a, b)` – Alias for `div(a, b)` (quotient = result of division without the remainder)
-
-### 🔧 Requirements
-
-- You may use `0` and `1` as base values.
-- You may use bitwise operations and recursion only.
-- No usage of `+`, `-`, `*`, `/`, `%`, `math` module, etc.
 
 ---
 
-## 📁 Structure
+## 🎯 Bonus
 
-- `challenge.py` – Write your solution here
-- `solution.hs` – Reference solution in Haskell (don't peek too soon!)
-- `test_cases.py` – Some test cases to validate your implementation
+As a stretch goal, **eliminate all use of**:
+
+- Unary minus
+- `++` (increment)
+- `--` (decrement)
+
+...and instead implement **everything using recursion and bitwise operations only**, such as:
+
+- `<<`, `>>`, `&`, `|`, `^`, `~`
+
+Recreate `incr(n)` and `decr(n)` using pure bitwise logic, and use those to rebuild the other operations.
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/richvigorito/dev-challenges.git
-cd dev-challenges/challenge-001
-python test_cases.py
-
+## 📁 Solutions in various langauges in solutions dir
