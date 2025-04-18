@@ -22,11 +22,11 @@ for dir in "${challenge_dirs[@]}"; do
     #
     pretty=$(echo "$name" | sed -E 's/week([0-9]+)_?([a-zA-Z0-9_]*)/Week \1 - \2/' | sed 's/_/ /g')
     if [[ -f "$dir/README.md" || -f "$dir/readme.md" ]]; then
-        challenge_list+="- [$pretty](./$name)"
+        challenge_list+="- [$pretty](./$name)\n"
         latest="$name"
         latest_pretty="$pretty"
-    else	
-        upcoming_list+="- $pretty"
+    else
+        upcoming_list+="- $pretty\n"
     fi
 done
 
@@ -40,10 +40,15 @@ A collection of weekly coding challenges. Each challenge is contained in its own
 
 **[$latest_pretty](./$latest)**
 
-## 🗂️ All Challenges
+## 🗂 All Challenges
 
+### ✅ Completed Challenges
 $challenge_list
+
+### 🔜 Upcoming Challenges
 $upcoming_list
+
 EOF
 
 echo "✅ README updated with latest challenge: $latest_pretty"
+
