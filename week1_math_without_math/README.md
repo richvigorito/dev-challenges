@@ -1,5 +1,7 @@
 # Dev Challenge 001 - Arithmetic From Scratch
 
+## Objective
+
 Implement a basic arithmetic library using **only recursion and very limited operators** — no `+`, `-`, `*`, `/`, `%`, or built-in math functions allowed!
 
 This is a great warm-up for teams to stretch their problem-solving muscles and think about how computation really works under the hood.

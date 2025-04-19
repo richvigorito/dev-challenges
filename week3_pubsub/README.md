@@ -1,4 +1,6 @@
-# Dev Challenge 00X - Pub/Sub System from Scratch
+# Dev Challenge 003 - Pub/Sub System from Scratch
+
+## Objective
 
 Build a lightweight **Publish/Subscribe messaging system** from scratch — no external libraries, frameworks, or brokers allowed!
 
@@ -10,7 +12,7 @@ This challenge explores messaging patterns, decoupled architecture, and async de
 
 Implement a basic Pub/Sub system in your language of choice with the following core functionality:
 
-### 🧩 Required Features
+### 🧩 Requirements
 
 - `subscribe(channel, callback)`  
   Register a function (`callback`) that listens for messages on a given `channel`.
@@ -20,6 +22,10 @@ Implement a basic Pub/Sub system in your language of choice with the following c
 
 - Multiple subscribers can subscribe to the same channel.
 - A subscriber can listen to multiple channels.
+
+
+## 🎯 Bonus
+- implement async delivery
 
 ### 🧪 Example Usage
 
