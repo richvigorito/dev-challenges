@@ -46,5 +46,8 @@ done
     printf "%s\n" "$upcoming_list"  # Print the upcoming challenges
 } > "$README"
 
+sed -i 's;<br>;\n;g' $README
+
+
 echo "✅ README updated with latest challenge: $latest_pretty"
 
