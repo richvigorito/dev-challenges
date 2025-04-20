@@ -13,7 +13,7 @@ It features:
 
 ## 🚀 How to Run
 
-1). **(Optional)** Create a virtual environment:
+1) **(Optional)** Create a virtual environment:
 
 ```bash
 python3 -m venv venv
@@ -50,7 +50,7 @@ Opens a WebSocket connection to receive real-time messages published to that top
 You can test this with tools like:
 - [Websocketking.com](http://websocketking.com)
 - [hoppscotch.io](http://hoppscotch.io)
-- [sample react ui](/week3_pubsub/solutions/react-ui)
+- [sample react ui](/week3_pubsub/solutions/react_frontend)
 
 Example URL:
 ```bash
