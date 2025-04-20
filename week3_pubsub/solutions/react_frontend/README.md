@@ -1,0 +1,33 @@
+# ⚛️ Pub/Sub UI – React Frontend
+
+This is an optional React UI to go along with the pub/sub backend from Dev Challenge 003.
+
+You can:
+
+- Subscribe to a topic over WebSockets
+- Publish messages to a topic using HTTP
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+2. Start the Server:
+```bash
+npm run dev
+```
+3. Visit the app
+```bash 
+http://localhost:3000
+```
+
+## 🔧 How It Works
+
+Uses WebSocket to connect to: ``ws://localhost:8000/subscribe/<topic>``
+
+Uses HTTP POST to publish to: ``http://localhost:8000/publish/raw/<topic>``
+

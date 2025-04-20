@@ -1,4 +1,4 @@
-# Dev Challenge 003 - Pub/Sub System from Scratch
+## 🧪 Dev Challenge 003 – Pub/Sub System from Scratch
 
 ## Objective
 
@@ -23,11 +23,17 @@ Implement a basic Pub/Sub system in your language of choice with the following c
 - Multiple subscribers can subscribe to the same channel.
 - A subscriber can listen to multiple channels.
 
+---
 
-## 🎯 Bonus
-- implement async delivery
+## 🎯 Bonus Ideas
 
-### 🧪 Example Usage
+- Async message delivery
+- Add an HTTP API to publish/subscribe
+- Add a frontend UI (e.g. via WebSockets)
+
+---
+
+## 🧪 Example Usage
 
 ```python
 pubsub = PubSub()
@@ -40,13 +46,23 @@ def handle_sports(msg):
 
 pubsub.subscribe("news", handle_news)
 pubsub.subscribe("sports", handle_sports)
-pubsub.subscribe("news", handle_sports)  # Multiple listeners on same channel
+pubsub.subscribe("news", handle_sports)
 
 pubsub.publish("news", "Mars landing successful!")
 pubsub.publish("sports", "Home run in the 9th inning!")
-
-output: 
 ```
+
+Expected Output
+```yaml
 News: Mars landing successful!
 Sports Update: Mars landing successful!
 Sports Update: Home run in the 9th inning!
+```
+
+---
+
+## 🧩 Optional Solutions
+```
+solutions/
+├── python/          # Python backend (Pub/Sub broker + FastAPI + WebSocket)
+└── react_frontend/  # Optional React UI
