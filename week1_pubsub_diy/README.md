@@ -1,18 +1,17 @@
-## 🧪 Dev Challenge 003 – Pub/Sub System from Scratch
+# 🏆 Week [1] - Build Your Own Pub/Sub System
 
-## Objective
-
+## 📝 Challenge Overview
 Build a lightweight **Publish/Subscribe messaging system** from scratch — no external libraries, frameworks, or brokers allowed!
 
 This challenge explores messaging patterns, decoupled architecture, and async delivery — all fundamental ideas behind systems like Redis Pub/Sub, Kafka, and message queues.
 
 ---
 
-## 💡 The Challenge
+## 🏁 Challenge Format: 
+**Collaborative** 🤝💻 With your team or subteams implment a publish/subscribe broker.
 
-Implement a basic Pub/Sub system in your language of choice with the following core functionality:
 
-### 🧩 Requirements
+### 📋 Requirements & Specifications
 
 - `subscribe(channel, callback)`  
   Register a function (`callback`) that listens for messages on a given `channel`.
@@ -33,8 +32,7 @@ Implement a basic Pub/Sub system in your language of choice with the following c
 
 ---
 
-## 🧪 Example Usage
-
+### 🔧 Example Usage
 ```python
 pubsub = PubSub()
 
@@ -58,11 +56,3 @@ News: Mars landing successful!
 Sports Update: Mars landing successful!
 Sports Update: Home run in the 9th inning!
 ```
-
----
-
-## 🧩 Optional Solutions
-```
-solutions/
-├── python/          # Python backend (Pub/Sub broker + FastAPI + WebSocket)
-└── react_frontend/  # Optional React UI
