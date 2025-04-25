@@ -1,6 +1,6 @@
 # Dev Challenges
 
-Welcome to **Dev Challenges**, a collection of weekly coding challenges designed for small teams or groups to solve in a fun, quick, and collaborative setting. Each challenge is designed to be completed in about an hour to an hour and a half, making it a perfect way to wind down after work or to spark some friendly competition.
+Welcome to **Dev Challenges**, a collection of weekly coding challenges designed for small teams or groups to solve in a fun, quick, and collaborative setting. Each challenge is designed to be completed in about an hour or so, making it a perfect way to wind down after work or to spark some friendly competition.
 
 The challenges will be released weekly and come in different formats: head-to-head races, question/answer games, and collaborative problem-solving challenges. These are not long, drawn-out projects — they're quick, dirty, and hopefully enjoyable while still being a little thought-provoking.
 
