@@ -71,7 +71,7 @@ This template will keep your README structure consistent and provide a solid fou
 ### 🇨 c
 ### ☕ Java
 ### 🇨➕➕ C++
-### 🇨#️⃣ C#
+### 🇨#️ C#
 ### 🦀 Rust
 ### 💨 Go
 ### 💎 Ruby
