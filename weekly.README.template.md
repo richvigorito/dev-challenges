@@ -66,21 +66,20 @@ This template will keep your README structure consistent and provide a solid fou
 
 
 ## Language Emoji Clipboard
-### 🇨 c
 ### 🐍 Python
-### 🟨 JavaScript
 ### 🐘 PHP
+### 🇨 c
 ### ☕ Java
 ### 🇨➕➕ C++
-### 🇨🎯 C#
+### 🇨#️⃣ C#
 ### 🦀 Rust
 ### 💨 Go
 ### 💎 Ruby
-### 🐹 TypeScript
-### 🌐 HTML / 🎨 CSS 
+### 🧵 Erlang
 ### 🐚 Bash / Shell
 ### 🗄️ SQL
-### 🧵 Erlang
+### 🟨 JavaScript
 ### ⚛️ React
 ### 🌿 Node.js
-### 🇨 c
+### 🐹 TypeScript
+### 🌐 HTML / 🎨 CSS 
