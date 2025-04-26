@@ -56,9 +56,8 @@ linked_list.print_list()  # Output: 1 -> 3 -> None
 
 print(linked_list.search(1))  # Output: True
 print(linked_list.search(2))  # Output: False
-
-
-
+```
+---
 ## 🛠 Solutions Available:
 [![Go](https://img.shields.io/badge/Go-1.21-blue?logo=go)](solutions/go/linkedlist.go)
 
