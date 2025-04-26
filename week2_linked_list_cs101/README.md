@@ -60,5 +60,6 @@ print(linked_list.search(2))  # Output: False
 ---
 ## 🛠 Solutions Available:
 [![Go](https://img.shields.io/badge/Go-1.21-blue?logo=go)](solutions/go/linkedlist.go)
+[![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python)](solutions/python/linkedlist.py)
 
 
