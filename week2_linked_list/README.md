@@ -2,7 +2,7 @@
 
 ## 📝 Challenge Overview
 
-Remember your **CS 101** days? It’s time to dust off those memories and implement a **Linked List** from scratch. No arrays, no built-in lists—just good ol' pointers and data manipulation!
+Remember your **Intro To Data Structures** days? It’s time to dust off those memories and implement a **Linked List** from scratch. No arrays, no built-in lists—just good ol' pointers and data manipulation!
 
 This challenge will give you hands-on experience with how data can be organized and navigated without relying on high-level abstractions. Perfect for understanding foundational computer science concepts like memory management, pointers, and dynamic data structures.
 
