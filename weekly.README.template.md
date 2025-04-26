@@ -9,10 +9,9 @@ Your task is to build a solution for [challenge problem description]. You'll be 
 ---
 
 ### 🏁 Challenge Format
-
-- **Team vs. Team**: Race against each other to finish first!
-- **Time Boxed**: You have [X] minutes to solve as many parts of the challenge as possible.
-- **Collaborative**: Work together to create the best solution — splitting tasks or building a complete solution from scratch.
+- **Head-to-Head** 🏁🔥: A race against the clock to see who can finish the challenge first or get the most done in a given time.
+- **Question/Answer** ❓💡: A trivia-style challenge with questions that need to be answered within a time limit.
+- **Collaborative** 🤝💻: Team-based challenges where you split the work or brainstorm together to solve a problem or build something small.
 
 ---
 

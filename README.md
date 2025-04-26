@@ -72,21 +72,17 @@ These challenges are designed to be approachable yet thought-provoking. Sometime
     ```
 
 ---
-
 ## 🛠 Solutions
 
 For each challenge, I will provide at least **one solution** (sometimes multiple solutions) for you to review and learn from. Feel free to experiment with your own approaches!
+⚠️ **Disclaimer**: Some solutions, which will be limited to frontend solution code, may have been generated with the help of AI tools like ChatGPT. Always feel free to improve or experiment with your own code!
 
 ---
-
 ## 📢 Want to Contribute?
 
 Feel free to submit challenge ideas or create a pull request with your own working solution! Time permitting, I’ll merge it and give you credit in the README. If you find a bug in one of my solutions, don't hesitate to PR a fix — I’ll review and merge it. Let’s keep this fun and collaborative! 🍻
 
-
 ---
-
 ### 🙌 Let's Code, Let's Build, Let's Have Fun!
 
 Happy coding, and maybe grab a beer while you're at it! 🍻
-
