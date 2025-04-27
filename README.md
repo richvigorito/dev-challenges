@@ -6,26 +6,23 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 3 - PubSub](./week3_pubsub)**
+**[Week 4 - This Math Aint Math'n](./week4_this_math_aint_mathin)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
-- [Week 1 - Math Without Math](./week1_math_without_math)  
-- [Week 2 - String Reverser](./week2_string_reverser)  
-- [Week 3 - PubSub](./week3_pubsub)
+- [Week 1 - The Gossip Chain](./week1_pubsub_diy)  
+- [Week 2 - Join The Conga Line](./week2_linked_list_diy)  
+- [Week 3 - Vizualize Wilt Chamberlains 100_Point Game](./week3_wiltchamberlains_100_point_game)  
+- [Week 4 - This Math Aint Math'n](./week4_this_math_aint_mathin)
 
 #### 🔜 Upcoming Challenges
-- Week 4 - QA Puzzles
-- Week 5 - Variable Variables
-- Week 6 - Flip Cup
-- Week 7 - Centipede
-- Week 8 - Quickest Route
-- Week 9 - Vowel Detection
-- Week 10 - SCC (Strongly Connected Components)
-- Week 11 - Flip Cup Rest Editions
-- Week 12 - Regex Golf
-- Week 13 - Address Sort
+- Week 5 - Pancakes at the Coffeeshop
+- Week 6 - Variables Variables
+- Week 7 - Whats the Secret Handshake
+- Week 8 - resrever gnirts
+- Week 9 - Snake
+- Week 10 - One digit at a time, no judgment!
   ...and many more to come!
 
 ---
@@ -80,7 +77,7 @@ For each challenge, I will provide at least **one solution** (sometimes multiple
 ---
 ## 📢 Want to Contribute?
 
-Feel free to submit challenge ideas or create a pull request with your own working solution! Time permitting, I’ll merge it and give you credit in the README. If you find a bug in one of my solutions, don't hesitate to PR a fix — I’ll review and merge it. Let’s keep this fun and collaborative! 🍻
+Feel free to submit challenge ideas or create a pull request with your own working solution! Time permitting, I’ll merge it and give you credit in the README. If you find a bug in one of my solutions, don't hesitate to PR a fix — I’ll review and merge it. 
 
 ---
 ### 🙌 Let's Code, Let's Build, Let's Have Fun!

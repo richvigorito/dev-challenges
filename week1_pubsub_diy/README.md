@@ -3,7 +3,8 @@
 ## 📝 Challenge Overview
 Build a lightweight **Publish/Subscribe messaging system** from scratch — no external libraries, frameworks, or brokers allowed!
 
-This challenge explores messaging patterns, decoupled architecture, and async delivery — all fundamental ideas behind systems like Redis Pub/Sub, Kafka, and message queues.
+This challenge explores messaging patterns, decoupled architecture, and async delivery — all fundamental ideas behind systems like Redis Pub/Sub, Kafka, and message queues. 
+ 
 
 ---
 
@@ -36,23 +37,24 @@ This challenge explores messaging patterns, decoupled architecture, and async de
 ```python
 pubsub = PubSub()
 
-def handle_news(msg):
-    print(f"News: {msg}")
+def handle_relationships(msg):
+    print(f"Can you believe it?!: {msg}")
 
-def handle_sports(msg):
-    print(f"Sports Update: {msg}")
+def handle_workplace(msg):
+    print(f"Can you believe it: {msg}")
 
-pubsub.subscribe("news", handle_news)
-pubsub.subscribe("sports", handle_sports)
-pubsub.subscribe("news", handle_sports)
+pubsub.subscribe("breakups", handle_relationships)
+pubsub.subscribe("workplace", handle_sports)
+pubsub.subscribe("cheats", handle_sports)
 
-pubsub.publish("news", "Mars landing successful!")
-pubsub.publish("sports", "Home run in the 9th inning!")
+pubsub.publish("cheats", "J is cheating on Will.")
+pubsub.publish("workplace", "I think we have to do server maintenance on sunday.")
+pubsub.publish("breakups", "K and K are no more.")
 ```
 
 Expected Output
 ```yaml
-News: Mars landing successful!
-Sports Update: Mars landing successful!
-Sports Update: Home run in the 9th inning!
+Can you believe it?!: J is cheating on Will.
+Ugh, this again: I think we have to do server maintenance on sunday.!
+Can you believe it?!: K and K are no more.
 ```
