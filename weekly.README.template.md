@@ -66,19 +66,38 @@ This template will keep your README structure consistent and provide a solid fou
 
 ## Language Emoji Clipboard
 ### 🐍 Python
+![Python Version](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ### 🐘 PHP
+![PHP Version](https://img.shields.io/badge/PHP-8.0-blue?logo=php)
 ### 🇨 c
+![C Version](https://img.shields.io/badge/C-99-blue?logo=c)
 ### ☕ Java
+![Java Version](https://img.shields.io/badge/Java-17-blue?logo=java)
 ### 🇨➕➕ C++
+![C++ Version](https://img.shields.io/badge/C%2B%2B-17-blue?logo=c%2B%2B)
 ### 🇨#️ C#
+![C# Version](https://img.shields.io/badge/C%23-10-blue?logo=csharp)
 ### 🦀 Rust
+![Rust Version](https://img.shields.io/badge/Rust-1.56-blue?logo=rust)
 ### 💨 Go
+![Go Version](https://img.shields.io/badge/Go-1.21-blue?logo=go)
 ### 💎 Ruby
+![Ruby Version](https://img.shields.io/badge/Ruby-3.0-blue?logo=ruby)
 ### 🧵 Erlang
+![Erlang Version](https://img.shields.io/badge/Erlang-24-blue?logo=erlang)
 ### 🐚 Bash / Shell
+![Bash Version](https://img.shields.io/badge/Bash-5.1-blue?logo=gnu-bash)
 ### 🗄️ SQL
+![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
 ### 🟨 JavaScript
+![JavaScript Version](https://img.shields.io/badge/JavaScript-ES6-blue?logo=javascript)
 ### ⚛️ React
+![React Version](https://img.shields.io/badge/React-17-blue?logo=react)
 ### 🌿 Node.js
+![Node.js Version](https://img.shields.io/badge/Node.js-16-blue?logo=node.js)
 ### 🐹 TypeScript
+![TypeScript Version](https://img.shields.io/badge/TypeScript-4.4-blue?logo=typescript)
 ### 🌐 HTML / 🎨 CSS 
+### Kotlin
+![Kotlin Version](https://img.shields.io/badge/Kotlin-1.5-blue?logo=kotlin)
+
