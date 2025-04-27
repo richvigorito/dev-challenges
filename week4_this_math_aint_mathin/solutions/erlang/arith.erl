@@ -19,8 +19,6 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%% for bonus: 
-%%%% implement using bit operations
 incr(A) -> A + 1.
 decr(A) -> A -1.
 neg(N) 	-> -N.

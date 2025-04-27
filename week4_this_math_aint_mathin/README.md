@@ -1,4 +1,3 @@
-# Dev Challenge 001 - 
 # 🏆 Week [4] - Arithmetic From Scratch
 
 ## 📝 Challenge Overview
