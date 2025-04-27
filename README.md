@@ -1,8 +1,8 @@
 # Dev Challenges
 
-Welcome to **Dev Challenges**, a collection of weekly coding challenges designed for small teams or groups to solve in a fun, quick, and collaborative setting. Each challenge is designed to be completed in about an hour or so, making it a perfect way to wind down after work or to spark some friendly competition.
+Welcome to **Dev Challenges**, a collection of weekly coding challenges designed for small teams or groups to solve in a fun, quick, and collaborative setting. Each challenge is designed to be completed in about anywhere between 15 mins to an hour max, making it a perfect way to wind down after work or to spark some friendly competition. 
 
-The challenges will be released weekly and come in different formats: head-to-head races, question/answer games, and collaborative problem-solving challenges. These are not long, drawn-out projects — they're quick, dirty, and hopefully enjoyable while still being a little thought-provoking.
+The challenges will be released weekly and come in different formats: head-to-head races, question/answer games, and collaborative problem-solving challenges. These are not long, drawn-out projects — they're quick, dirty, and hopefully enjoyable while still being a little thought-provoking. My hope people subscribe and can be a fun team building exercise (and allows me to do little mini programs in languages I dont get to program everyday). 
 
 ## 🆕 Latest Challenge
 
@@ -11,8 +11,8 @@ The challenges will be released weekly and come in different formats: head-to-he
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
-- [Week 1 - The Gossip Chain](./week1_pubsub_diy)  
-- [Week 2 - Join The Conga Line](./week2_linked_list_diy)  
+- [Week 1 - Gossip Spreads](./week1_gossip_spreads)
+- [Week 2 - Join The Conga Line](./week2_the_conga_line)  
 - [Week 3 - Vizualize Wilt Chamberlains 100_Point Game](./week3_wiltchamberlains_100_point_game)  
 - [Week 4 - This Math Aint Math'n](./week4_this_math_aint_mathin)
 
@@ -29,7 +29,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 💡 How it Works
 
-Every **Thursday morning**, a new challenge will be released for teams to tackle together. You can get together as a team after work on Thursday or Friday for a fun and productive session before the weekend kicks off.
+Every **Thursday**, a new challenge will be released for teams to tackle together. You can get together as a team after work on Thursday or Friday for a fun and productive session before the weekend kicks off.
 
 ### Challenge Formats:
 - **Head-to-Head:** 🏁🔥 A race against the clock to see who can finish the challenge first or get the most done in a given time.
@@ -46,7 +46,7 @@ These challenges are ideal for:
 The goal is simple:
 - **Have fun** solving problems together
 - **Improve your skills** in a variety of topics (algorithms, data structures, system design, etc.)
-- **Build stronger teams** with a little friendly competition and collaborative problem-solving
+- **Most Importantly, build stronger teams** with a little friendly competition and collaborative problem-solving
 
 These challenges are designed to be approachable yet thought-provoking. Sometimes they'll be informative, sometimes they'll just get you thinking differently. But mostly, they’re a great way to bring a team together, all while sharpening your coding skills.
 
@@ -64,7 +64,7 @@ These challenges are designed to be approachable yet thought-provoking. Sometime
 2. **Check out the latest challenge** and start coding!
 
     ```bash
-    cd week3_pubsub
+    cd week4_wiltchamberlains_100_point_game
     # Follow the instructions in the directory
     ```
 

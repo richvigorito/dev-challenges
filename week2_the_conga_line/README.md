@@ -7,12 +7,10 @@ Remember your **Intro To Data Structures** days? It’s time to dust off those m
 This challenge will give you hands-on experience with how data can be organized and navigated without relying on high-level abstractions. Perfect for understanding foundational computer science concepts like memory management, pointers, and dynamic data structures.
 
 ---
+## 🏁 Challenge Format: 
+This can be  **Collaborative** 🤝💻 or probably more **Head-to-Head** 🏁🔥 and given 30 mins how far can each person get and then share your results. Spice it up and each person pick a different langauge and implement, then show the implementation discussing the differences.  
 
-## 💡 The Challenge
-
-Implement a **Singly Linked List** with the following core functionality:
-
-### 🧩 Requirements
+### 📋 Requirements & Specifications
 
 1. **Node**:
    - Create a `Node` class (or equivalent) to represent the elements in the linked list. Each node should store:
@@ -36,30 +34,30 @@ Implement a **Singly Linked List** with the following core functionality:
 
 ## 🎯 Bonus Ideas
 
-- Implement an `insert_at_beginning(data)` method to insert a node at the start.
 - Implement a method to **sort** the linked list.
+- Implement a Doubly Linked List
 - Add a method to **find the middle node** in a linked list.
 
 ---
 
-## 🧪 Example Usage
-
+### 🔧 Example Usage
 ```python
-linked_list = LinkedList()
-linked_list.insert(1)
-linked_list.insert(2)
-linked_list.insert(3)
-linked_list.print_list()  # Output: 1 -> 2 -> 3 -> None
+CongaLine = LinkedList  # class alias
+putYourHandUpOnMyHip = LinkedList.insertAtTail  # function alias
 
-linked_list.delete(2)
-linked_list.print_list()  # Output: 1 -> 3 -> None
+conga_line = LinkedList()
+putYourHandUpOnMyHip(conga_line,  'Alice')
+putYourHandUpOnMyHip(conga_line,  'Bob')
+putYourHandUpOnMyHip(conga_line,  'Julie')
+conga_line.print_list()  # Output: Alice -> Bob -> Julie -> None
 
-print(linked_list.search(1))  # Output: True
-print(linked_list.search(2))  # Output: False
+conga_line.delete(2)
+conga_line.print_list()  # Output: Alice -> Julie -> None
+
+print(conga_line.search(1))  # Output: True
+print(conga_line.search(2))  # Output: False
 ```
 ---
 ## 🛠 Solutions Available:
 [![Go](https://img.shields.io/badge/Go-1.21-blue?logo=go)](solutions/go/linkedlist.go)
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python)](solutions/python/linkedlist.py)
-
-
