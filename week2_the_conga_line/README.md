@@ -51,11 +51,11 @@ putYourHandUpOnMyHip(conga_line,  'Bob')
 putYourHandUpOnMyHip(conga_line,  'Julie')
 conga_line.print_list()  # Output: Alice -> Bob -> Julie -> None
 
-conga_line.delete(2)
+conga_line.delete(1)
 conga_line.print_list()  # Output: Alice -> Julie -> None
 
-print(conga_line.search(1))  # Output: True
-print(conga_line.search(2))  # Output: False
+print(conga_line.search('Alice'))  # Output: Alice
+print(conga_line.search('Bob'))  # Output: False
 ```
 ---
 ## 🛠 Solutions Available:

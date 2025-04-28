@@ -13,7 +13,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 #### ✅ Completed Challenges
 - [Week 1 - Gossip Spreads](./week1_gossip_spreads)
 - [Week 2 - Join The Conga Line](./week2_the_conga_line)  
-- [Week 3 - Vizualize Wilt Chamberlains 100_Point Game](./week3_wiltchamberlains_100_point_game)  
+- [Week 3 - Wilt Chamberlain's 100_Point Game](./week3_wiltchamberlains_100_point_game)  
 - [Week 4 - This Math Aint Math'n](./week4_this_math_aint_mathin)
 
 #### 🔜 Upcoming Challenges
@@ -28,7 +28,6 @@ The challenges will be released weekly and come in different formats: head-to-he
 ---
 
 ## 💡 How it Works
-
 Every **Thursday**, a new challenge will be released for teams to tackle together. You can get together as a team after work on Thursday or Friday for a fun and productive session before the weekend kicks off.
 
 ### Challenge Formats:
@@ -53,7 +52,6 @@ These challenges are designed to be approachable yet thought-provoking. Sometime
 ---
 
 ## 🚀 Getting Started
-
 1. **Clone the repository:**
 
     ```bash
@@ -70,16 +68,13 @@ These challenges are designed to be approachable yet thought-provoking. Sometime
 
 ---
 ## 🛠 Solutions
-
 For each challenge, I will provide at least **one solution** (sometimes multiple solutions) for you to review and learn from. Feel free to experiment with your own approaches!
 ⚠️ **Disclaimer**: Some solutions, which will be limited to frontend solution code, may have been generated with the help of AI tools like ChatGPT. Always feel free to improve or experiment with your own code!
 
 ---
 ## 📢 Want to Contribute?
-
 Feel free to submit challenge ideas or create a pull request with your own working solution! Time permitting, I’ll merge it and give you credit in the README. If you find a bug in one of my solutions, don't hesitate to PR a fix — I’ll review and merge it. 
 
 ---
 ### 🙌 Let's Code, Let's Build, Let's Have Fun!
-
 Happy coding, and maybe grab a beer while you're at it! 🍻
