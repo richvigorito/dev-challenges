@@ -35,7 +35,6 @@ You'll learn about **data transformation**, **dynamic rendering**, and **creativ
 - 📺 Show live score labels next to each player's marker ("Wilt: 62 points", "Dame: 41 points")
 - 🚀 Smooth interpolate points for continuous movement instead of stepwise jumps
 - 📊 Create a mini-dashboard showing scoring pace (points/minute)
-- 🖼 Include logos or fun graphics! (Blazers logo if you want — ![Trail Blazers](files/trailblazers.png))
 
 ---
 
@@ -63,5 +62,5 @@ Imagine:
 | ![P5.js Animation](https://img.shields.io/badge/p5.js-1.4.0-red?logo=javascript) | [solutions/p5js](solutions/p5js) |
 
 ---
-# 🏁 Good Luck & 🔥🔥🔥 [Trail Blazers](files/trailblazers.png) RIP CITY BABY!!! 🔥🔥🔥
+# 🏁 Good Luck & 🔥🔥🔥RIP CITY BABY!!!🔥🔥🔥
 

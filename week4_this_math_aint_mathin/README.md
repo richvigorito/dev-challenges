@@ -45,5 +45,5 @@ Recreate `incr(n)` and `decr(n)` using pure bitwise logic, and use those to rebu
 
 ---
 ## 🛠 Solutions Available:
-[![erlang](https://img.shields.io/badge/C-99-blue?logo=c)](solutions/c/)
-[![erlang](https://img.shields.io/badge/Erlang-24-blue?logo=erlang)](solutions/c/)
+[![c](https://img.shields.io/badge/C-99-blue?logo=c)](solutions/c/)
+[![erlang](https://img.shields.io/badge/Erlang-24-blue?logo=erlang)](solutions/erlang/)

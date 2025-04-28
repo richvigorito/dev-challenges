@@ -1,0 +1,498 @@
+12:00.0	Jump ball: J. Smith vs. D. Eubanks (D. Lillard gains possession)
+11:46.0	 	 	0-0	 	C. Reddish misses 3-pt jump shot from 27 ft
+11:41.0	Defensive rebound by T. Washington	 	0-0	 	 
+11:19.0	A. Şengün makes 2-pt hook shot from 4 ft	+2	2-0	 	 
+11:02.0	 	 	2-2	+2	J. Grant makes 2-pt layup at rim
+10:47.0	J. Tate misses 2-pt jump shot from 6 ft	 	2-2	 	 
+10:45.0	 	 	2-2	 	Defensive rebound by D. Eubanks
+10:40.0	 	 	2-2	 	J. Grant misses 2-pt layup from 2 ft
+10:39.0	Defensive rebound by K. Martin	 	2-2	 	 
+10:34.0	J. Smith misses 3-pt jump shot from 25 ft	 	2-2	 	 
+10:32.0	Offensive rebound by A. Şengün	 	2-2	 	 
+10:26.0	A. Şengün misses 2-pt hook shot from 5 ft	 	2-2	 	 
+10:25.0	 	 	2-2	 	Defensive rebound by D. Eubanks
+10:18.0	 	 	2-2	 	Personal foul by K. Martin (drawn by D. Eubanks)
+10:11.0	 	 	2-4	+2	D. Lillard makes 2-pt layup from 1 ft
+9:51.0	A. Şengün misses 2-pt hook shot from 3 ft	 	2-4	 	 
+9:50.0	Offensive rebound by J. Tate	 	2-4	 	 
+9:49.0	J. Tate makes 2-pt layup from 2 ft	+2	4-4	 	 
+9:34.0	 	 	4-7	+3	D. Lillard makes 3-pt jump shot from 25 ft
+9:11.0	T. Washington misses 2-pt jump shot from 13 ft	 	4-7	 	 
+9:08.0	 	 	4-7	 	Defensive rebound by M. Thybulle
+9:00.0	 	 	4-7	 	M. Thybulle misses 3-pt jump shot from 25 ft
+9:00.0	 	 	4-7	 	Offensive rebound by J. Grant
+8:58.0	 	 	4-7	 	Offensive foul by J. Grant (drawn by J. Tate)
+8:58.0	 	 	4-7	 	Turnover by J. Grant (offensive foul)
+8:48.0	T. Washington misses 3-pt jump shot from 25 ft	 	4-7	 	 
+8:45.0	Offensive rebound by A. Şengün	 	4-7	 	 
+8:42.0	T. Washington misses 3-pt jump shot from 24 ft	 	4-7	 	 
+8:41.0	 	 	4-7	 	Defensive rebound by D. Lillard
+8:34.0	 	 	4-7	 	D. Lillard misses 3-pt jump shot from 28 ft
+8:32.0	Defensive rebound by K. Martin	 	4-7	 	 
+8:21.0	J. Tate makes 2-pt layup from 1 ft	+2	6-7	 	 
+8:11.0	 	 	6-10	+3	D. Lillard makes 3-pt jump shot from 26 ft
+7:46.0	T. Washington misses 3-pt jump shot from 28 ft	 	6-10	 	 
+7:41.0	 	 	6-10	 	Defensive rebound by D. Eubanks
+7:40.0	 	 	6-10	 	Turnover by J. Grant (lost ball; steal by K. Martin)
+7:37.0	K. Martin misses 2-pt dunk from 3 ft (block by D. Eubanks)	 	6-10	 	 
+7:35.0	 	 	6-10	 	Defensive rebound by D. Lillard
+7:30.0	 	 	6-10	 	J. Grant misses 2-pt layup from 3 ft
+7:29.0	Defensive rebound by J. Smith	 	6-10	 	 
+7:23.0	Turnover by T. Washington (lost ball; steal by M. Thybulle)	 	6-10	 	 
+7:20.0	 	 	6-12	+2	J. Grant makes 2-pt dunk from 1 ft (assist by C. Reddish)
+7:02.0	A. Şengün makes 2-pt hook shot from 6 ft	+2	8-12	 	 
+6:43.0	 	 	8-12	 	Shooting foul by K. Martin (drawn by D. Eubanks)
+6:43.0	 	 	8-12	 	Portland full timeout
+6:43.0	 	 	8-12	 	D. Eubanks misses free throw 1 of 2
+6:43.0	 	 	8-12	 	Offensive rebound by Team
+6:43.0	 	 	8-13	+1	D. Eubanks makes free throw 2 of 2
+6:23.0	J. Tate makes 2-pt jump shot from 6 ft	+2	10-13	 	 
+6:04.0	 	 	10-15	+2	D. Lillard makes 2-pt jump shot from 7 ft
+5:48.0	J. Smith makes 2-pt jump shot from 15 ft (assist by A. Şengün)	+2	12-15	 	 
+5:35.0	 	 	12-18	+3	D. Lillard makes 3-pt jump shot from 32 ft
+5:17.0	K. Martin misses 3-pt jump shot from 26 ft	 	12-18	 	 
+5:13.0	Offensive rebound by A. Şengün	 	12-18	 	 
+5:13.0	A. Şengün makes 2-pt dunk at rim	+2	14-18	 	 
+5:04.0	 	 	14-18	 	D. Lillard misses 3-pt jump shot from 26 ft
+5:01.0	Defensive rebound by K. Martin	 	14-18	 	 
+4:54.0	J. Tate makes 2-pt jump shot from 3 ft (assist by K. Martin)	+2	16-18	 	 
+4:31.0	 	 	16-18	 	Shooting foul by J. Tate (drawn by J. Grant)
+4:31.0	 	 	16-19	+1	J. Grant makes free throw 1 of 2
+4:31.0	 	 	16-19	 	S. Sharpe enters the game for C. Reddish
+4:31.0	 	 	16-20	+1	J. Grant makes free throw 2 of 2
+4:22.0	K. Martin makes 2-pt dunk from 2 ft (assist by A. Şengün)	+2	18-20	 	 
+4:22.0	Shooting foul by D. Eubanks (drawn by K. Martin)	 	18-20	 	 
+4:22.0	 	 	18-20	 	N. Little enters the game for D. Eubanks
+4:22.0	 	 	18-20	 	T. Watford enters the game for J. Grant
+4:22.0	K. Martin makes free throw 1 of 1	+1	19-20	 	 
+4:09.0	 	 	19-22	+2	S. Sharpe makes 2-pt jump shot from 3 ft (assist by D. Lillard)
+3:47.0	J. Smith misses 2-pt layup at rim	 	19-22	 	 
+3:45.0	Offensive rebound by A. Şengün	 	19-22	 	 
+3:45.0	A. Şengün makes 2-pt dunk at rim	+2	21-22	 	 
+3:33.0	 	 	21-25	+3	N. Little makes 3-pt jump shot from 25 ft (assist by M. Thybulle)
+3:13.0	Shooting foul by N. Little (drawn by J. Tate)	 	21-25	 	 
+3:13.0	J. Tate makes free throw 1 of 2	+1	22-25	 	 
+3:13.0	J. Christopher enters the game for J. Smith	 	22-25	 	 
+3:13.0	T. Eason enters the game for T. Washington	 	22-25	 	 
+3:13.0	J. Tate makes free throw 2 of 2	+1	23-25	 	 
+3:03.0	 	 	23-25	 	Shooting foul by J. Tate (drawn by D. Lillard)
+3:03.0	 	 	23-26	+1	D. Lillard makes free throw 1 of 3
+3:03.0	 	 	23-27	+1	D. Lillard makes free throw 2 of 3
+3:03.0	D. Nix enters the game for J. Tate	 	23-27	 	 
+3:03.0	 	 	23-27	 	J. Walker enters the game for M. Thybulle
+3:03.0	 	 	23-28	+1	D. Lillard makes free throw 3 of 3
+2:52.0	A. Şengün makes 2-pt jump shot from 2 ft	+2	25-28	 	 
+2:36.0	 	 	25-28	 	S. Sharpe misses 3-pt jump shot from 23 ft
+2:32.0	 	 	25-28	 	Offensive rebound by D. Lillard
+2:32.0	 	 	25-28	 	D. Lillard misses 2-pt layup at rim
+2:31.0	Defensive rebound by T. Eason	 	25-28	 	 
+2:12.0	D. Nix misses 2-pt jump shot from 2 ft	 	25-28	 	 
+2:10.0	Offensive rebound by A. Şengün	 	25-28	 	 
+2:10.0	A. Şengün misses 2-pt layup at rim	 	25-28	 	 
+2:09.0	Offensive rebound by A. Şengün	 	25-28	 	 
+2:07.0	K. Martin makes 2-pt dunk from 1 ft (assist by A. Şengün)	+2	27-28	 	 
+1:51.0	 	 	27-28	 	T. Watford misses 2-pt layup from 1 ft
+1:49.0	Defensive rebound by T. Eason	 	27-28	 	 
+1:46.0	Turnover by K. Martin (bad pass)	 	27-28	 	 
+1:46.0	Houston full timeout	 	27-28	 	 
+1:46.0	U. Garuba enters the game for A. Şengün	 	27-28	 	 
+1:46.0	 	 	27-28	 	J. Grant enters the game for D. Lillard
+1:46.0	 	 	27-28	 	K. Johnson enters the game for J. Walker
+1:29.0	 	 	27-28	 	Turnover by S. Sharpe (lost ball; steal by J. Christopher)
+1:22.0	D. Nix misses 2-pt layup from 1 ft	 	27-28	 	 
+1:22.0	Offensive rebound by Team	 	27-28	 	 
+1:22.0	Turnover by D. Nix (traveling)	 	27-28	 	 
+1:09.0	 	 	27-28	 	Turnover by J. Grant (lost ball; steal by D. Nix)
+1:07.0	Shooting foul by T. Watford (drawn by K. Martin)	 	27-28	 	 
+1:07.0	K. Martin makes free throw 1 of 2	+1	28-28	 	 
+1:07.0	K. Martin misses free throw 2 of 2	 	28-28	 	 
+1:04.0	 	 	28-28	 	Defensive rebound by N. Little
+0:48.0	 	 	28-30	+2	J. Grant makes 2-pt jump shot from 22 ft
+0:36.0	J. Christopher makes 3-pt jump shot from 24 ft (assist by T. Eason)	+3	31-30	 	 
+0:14.0	 	 	31-30	 	K. Johnson misses 3-pt jump shot from 26 ft
+0:11.0	 	 	31-30	 	Offensive rebound by Team
+0:11.0	Loose ball foul by U. Garuba (drawn by N. Little)	 	31-30	 	 
+0:11.0	 	 	31-31	+1	N. Little makes free throw 1 of 2
+0:11.0	J. Smith enters the game for U. Garuba	 	31-31	 	 
+0:11.0	 	 	31-32	+1	N. Little makes free throw 2 of 2
+0:00.0	J. Christopher misses 3-pt jump shot from 27 ft	 	31-32	 	 
+0:00.0	Offensive rebound by Team	 	31-32	 	 
+0:00.0	End of 1st quarter
+2nd Q
+Time	Houston		Score		Portland
+12:00.0	Start of 2nd quarter
+11:42.0	Shooting foul by D. Eubanks (drawn by B. Marjanović)	 	31-32	 	 
+11:42.0	B. Marjanović makes free throw 1 of 2	+1	32-32	 	 
+11:42.0	B. Marjanović misses free throw 2 of 2	 	32-32	 	 
+11:40.0	 	 	32-32	 	Defensive rebound by N. Little
+11:23.0	 	 	32-34	+2	D. Eubanks makes 2-pt jump shot from 5 ft (assist by C. Reddish)
+11:00.0	J. Smith misses 2-pt layup from 3 ft	 	32-34	 	 
+10:59.0	 	 	32-34	 	Defensive rebound by N. Little
+10:55.0	 	 	32-36	+2	C. Reddish makes 2-pt layup from 1 ft (assist by N. Little)
+10:47.0	J. Smith misses 2-pt layup from 2 ft	 	32-36	 	 
+10:46.0	Offensive rebound by B. Marjanović	 	32-36	 	 
+10:46.0	Shooting foul by J. Grant (drawn by B. Marjanović)	 	32-36	 	 
+10:46.0	B. Marjanović makes free throw 1 of 2	+1	33-36	 	 
+10:46.0	B. Marjanović misses free throw 2 of 2	 	33-36	 	 
+10:44.0	 	 	33-36	 	Defensive rebound by N. Little
+10:24.0	 	 	33-39	+3	N. Little makes 3-pt jump shot from 23 ft (assist by K. Johnson)
+10:08.0	D. Nix misses 2-pt jump shot from 5 ft	 	33-39	 	 
+10:06.0	Offensive rebound by B. Marjanović	 	33-39	 	 
+10:06.0	B. Marjanović misses 2-pt layup at rim	 	33-39	 	 
+10:05.0	 	 	33-39	 	Defensive rebound by J. Grant
+10:02.0	 	 	33-39	 	Turnover by K. Johnson (traveling)
+9:48.0	J. Christopher misses 2-pt jump shot from 13 ft	 	33-39	 	 
+9:44.0	 	 	33-39	 	Defensive rebound by N. Little
+9:30.0	 	 	33-39	 	J. Grant misses 2-pt jump shot from 12 ft
+9:28.0	Defensive rebound by J. Smith	 	33-39	 	 
+9:19.0	B. Marjanović makes 2-pt layup from 1 ft (assist by J. Smith)	+2	35-39	 	 
+8:53.0	 	 	35-39	 	Shooting foul by T. Eason (drawn by D. Eubanks)
+8:53.0	 	 	35-40	+1	D. Eubanks makes free throw 1 of 2
+8:53.0	U. Garuba enters the game for B. Marjanović	 	35-40	 	 
+8:53.0	 	 	35-40	 	D. Lillard enters the game for K. Johnson
+8:53.0	 	 	35-41	+1	D. Eubanks makes free throw 2 of 2
+8:42.0	D. Nix misses 3-pt jump shot from 27 ft	 	35-41	 	 
+8:38.0	 	 	35-41	 	Defensive rebound by J. Grant
+8:34.0	 	 	35-41	 	Shooting foul by T. Eason (drawn by D. Eubanks)
+8:34.0	 	 	35-41	 	D. Eubanks misses free throw 1 of 2
+8:34.0	 	 	35-41	 	Offensive rebound by Team
+8:34.0	 	 	35-41	 	D. Eubanks misses free throw 2 of 2
+8:32.0	 	 	35-41	 	Offensive rebound by D. Eubanks
+8:30.0	 	 	35-41	 	Turnover by D. Eubanks (lost ball; steal by T. Eason)
+8:27.0	Shooting foul by C. Reddish (drawn by T. Eason)	 	35-41	 	 
+8:27.0	T. Eason makes free throw 1 of 2	+1	36-41	 	 
+8:27.0	 	 	36-41	 	M. Thybulle enters the game for D. Eubanks
+8:27.0	 	 	36-41	 	T. Watford enters the game for C. Reddish
+8:27.0	T. Eason makes free throw 2 of 2	+1	37-41	 	 
+8:03.0	 	 	37-44	+3	D. Lillard makes 3-pt jump shot from 32 ft (assist by N. Little)
+8:00.0	 	 	37-44	 	Violation by Team (delay of game)
+7:44.0	T. Eason makes 2-pt layup from 2 ft (assist by D. Nix)	+2	39-44	 	 
+7:32.0	 	 	39-46	+2	D. Lillard makes 2-pt layup from 1 ft
+7:32.0	 	 	39-46	 	Shooting foul by T. Eason (drawn by D. Lillard)
+7:32.0	A. Şengün enters the game for U. Garuba	 	39-46	 	 
+7:32.0	 	 	39-47	+1	D. Lillard makes free throw 1 of 1
+7:14.0	D. Nix misses 3-pt jump shot from 25 ft	 	39-47	 	 
+7:13.0	 	 	39-47	 	Defensive rebound by N. Little
+7:07.0	 	 	39-50	+3	D. Lillard makes 3-pt jump shot from 32 ft
+6:59.0	Houston full timeout	 	39-50	 	 
+6:59.0	J. Tate enters the game for J. Christopher	 	39-50	 	 
+6:59.0	T. Washington enters the game for T. Eason	 	39-50	 	 
+6:52.0	J. Tate makes 2-pt layup from 2 ft	+2	41-50	 	 
+6:34.0	 	 	41-50	 	D. Lillard misses 3-pt jump shot from 25 ft
+6:31.0	Defensive rebound by J. Smith	 	41-50	 	 
+6:23.0	D. Nix makes 2-pt layup from 2 ft (assist by J. Smith)	+2	43-50	 	 
+6:05.0	 	 	43-52	+2	J. Grant makes 2-pt jump shot from 19 ft
+5:42.0	T. Washington misses 3-pt jump shot from 28 ft	 	43-52	 	 
+5:41.0	Offensive rebound by A. Şengün	 	43-52	 	 
+5:41.0	A. Şengün makes 2-pt layup from 1 ft	+2	45-52	 	 
+5:41.0	Shooting foul by J. Grant (drawn by A. Şengün)	 	45-52	 	 
+5:41.0	K. Martin enters the game for D. Nix	 	45-52	 	 
+5:41.0	A. Şengün misses free throw 1 of 1	 	45-52	 	 
+5:39.0	 	 	45-52	 	Defensive rebound by N. Little
+5:33.0	 	 	45-52	 	Personal foul by J. Tate (drawn by M. Thybulle)
+5:33.0	 	 	45-52	 	J. Walker enters the game for J. Grant
+5:22.0	 	 	45-52	 	J. Walker misses 3-pt jump shot from 23 ft
+5:19.0	Defensive rebound by T. Washington	 	45-52	 	 
+5:17.0	Shooting foul by M. Thybulle (drawn by T. Washington)	 	45-52	 	 
+5:17.0	T. Washington makes free throw 1 of 2	+1	46-52	 	 
+5:17.0	T. Washington makes free throw 2 of 2	+1	47-52	 	 
+5:05.0	 	 	47-52	 	D. Lillard misses 2-pt layup from 3 ft (block by J. Smith)
+5:05.0	Defensive rebound by Team	 	47-52	 	 
+5:05.0	 	 	47-52	 	Technical foul by D. Lillard
+5:05.0	J. Smith misses technical free throw	 	47-52	 	 
+5:05.0	Offensive rebound by Team	 	47-52	 	 
+5:05.0	 	 	47-52	 	C. Reddish enters the game for N. Little
+4:45.0	Offensive foul by A. Şengün (drawn by T. Watford)	 	47-52	 	 
+4:45.0	Turnover by A. Şengün (offensive foul)	 	47-52	 	 
+4:38.0	 	 	47-54	+2	T. Watford makes 2-pt jump shot from 3 ft (assist by D. Lillard)
+4:38.0	 	 	47-54	 	Shooting foul by J. Smith (drawn by T. Watford)
+4:38.0	 	 	47-55	+1	T. Watford makes free throw 1 of 1
+4:24.0	J. Smith misses 3-pt jump shot from 26 ft	 	47-55	 	 
+4:17.0	 	 	47-55	 	Defensive rebound by D. Lillard
+4:15.0	 	 	47-57	+2	D. Lillard makes 2-pt layup from 2 ft
+3:52.0	A. Şengün misses 2-pt hook shot from 7 ft	 	47-57	 	 
+3:51.0	 	 	47-57	 	Defensive rebound by C. Reddish
+3:43.0	 	 	47-57	 	D. Lillard misses 2-pt jump shot from 14 ft
+3:38.0	 	 	47-57	 	Offensive rebound by J. Walker
+3:38.0	 	 	47-57	 	J. Walker misses 2-pt layup at rim
+3:38.0	Defensive rebound by K. Martin	 	47-57	 	 
+3:32.0	K. Martin makes 2-pt layup from 1 ft	+2	49-57	 	 
+3:17.0	 	 	49-57	 	Personal foul by J. Tate (drawn by T. Watford)
+3:17.0	Technical foul by J. Tate	 	49-57	 	 
+3:17.0	 	 	49-58	+1	D. Lillard makes technical free throw
+3:17.0	D. Nix enters the game for J. Tate	 	49-58	 	 
+3:17.0	 	 	49-58	 	T. Watford misses free throw 1 of 2
+3:17.0	 	 	49-58	 	Offensive rebound by Team
+3:17.0	 	 	49-58	 	T. Watford misses free throw 2 of 2
+3:17.0	Defensive rebound by J. Smith	 	49-58	 	 
+3:03.0	J. Smith misses 2-pt layup from 2 ft (block by J. Walker)	 	49-58	 	 
+3:03.0	Offensive rebound by Team	 	49-58	 	 
+2:53.0	A. Şengün misses 2-pt jump shot from 17 ft	 	49-58	 	 
+2:50.0	 	 	49-58	 	Defensive rebound by M. Thybulle
+2:45.0	 	 	49-60	+2	T. Watford makes 2-pt layup from 1 ft
+2:35.0	K. Martin makes 2-pt dunk from 1 ft (assist by A. Şengün)	+2	51-60	 	 
+2:27.0	 	 	51-60	 	Personal foul by A. Şengün (drawn by D. Lillard)
+2:27.0	 	 	51-60	 	Portland full timeout
+2:27.0	 	 	51-61	+1	D. Lillard makes free throw 1 of 2
+2:27.0	 	 	51-62	+1	D. Lillard makes free throw 2 of 2
+2:07.0	D. Nix makes 3-pt jump shot from 26 ft (assist by K. Martin)	+3	54-62	 	 
+1:56.0	 	 	54-65	+3	D. Lillard makes 3-pt jump shot from 26 ft
+1:27.0	A. Şengün misses 2-pt hook shot from 7 ft	 	54-65	 	 
+1:26.0	 	 	54-65	 	Defensive rebound by T. Watford
+1:13.0	 	 	54-68	+3	D. Lillard makes 3-pt jump shot from 27 ft (assist by T. Watford)
+0:57.0	A. Şengün misses 2-pt layup from 2 ft	 	54-68	 	 
+0:57.0	 	 	54-68	 	Defensive rebound by C. Reddish
+0:50.0	 	 	54-71	+3	D. Lillard makes 3-pt jump shot from 36 ft (assist by C. Reddish)
+0:31.0	D. Nix makes 2-pt layup from 2 ft	+2	56-71	 	 
+0:31.0	 	 	56-71	 	Violation by Team (def goaltending)
+0:12.0	 	 	56-71	 	Offensive foul by T. Watford (drawn by A. Şengün)
+0:12.0	 	 	56-71	 	Turnover by T. Watford (offensive foul)
+0:08.0	K. Martin makes 2-pt layup from 2 ft (assist by A. Şengün)	+2	58-71	 	 
+0:01.0	 	 	58-73	+2	D. Lillard makes 2-pt layup from 1 ft
+0:00.0	D. Nix misses 3-pt jump shot from 65 ft	 	58-73	 	 
+0:00.0	Offensive rebound by Team	 	58-73	 	 
+0:00.0	End of 2nd quarter
+3rd Q
+Time	Houston		Score		Portland
+12:00.0	Start of 3rd quarter
+11:36.0	J. Tate misses 3-pt jump shot from 27 ft	 	58-73	 	 
+11:33.0	 	 	58-73	 	Defensive rebound by J. Grant
+11:26.0	 	 	58-73	 	Shooting foul by J. Tate (drawn by D. Eubanks)
+11:26.0	 	 	58-74	+1	D. Eubanks makes free throw 1 of 2
+11:26.0	T. Eason enters the game for J. Tate	 	58-74	 	 
+11:26.0	 	 	58-74	 	D. Eubanks misses free throw 2 of 2
+11:23.0	Defensive rebound by A. Şengün	 	58-74	 	 
+11:10.0	D. Nix misses 2-pt layup from 1 ft	 	58-74	 	 
+11:07.0	Offensive rebound by A. Şengün	 	58-74	 	 
+11:07.0	A. Şengün makes 2-pt layup at rim	+2	60-74	 	 
+10:50.0	 	 	60-74	 	Shooting foul by J. Smith (drawn by C. Reddish)
+10:50.0	 	 	60-75	+1	C. Reddish makes free throw 1 of 2
+10:50.0	 	 	60-76	+1	C. Reddish makes free throw 2 of 2
+10:34.0	K. Martin misses 2-pt layup from 2 ft	 	60-76	 	 
+10:33.0	 	 	60-76	 	Defensive rebound by D. Eubanks
+10:24.0	 	 	60-76	 	M. Thybulle misses 3-pt jump shot from 26 ft
+10:21.0	Defensive rebound by T. Eason	 	60-76	 	 
+10:12.0	Shooting foul by C. Reddish (drawn by J. Smith)	 	60-76	 	 
+10:12.0	J. Smith makes free throw 1 of 2	+1	61-76	 	 
+10:12.0	J. Smith misses free throw 2 of 2	 	61-76	 	 
+10:10.0	 	 	61-76	 	Defensive rebound by D. Eubanks
+9:52.0	 	 	61-78	+2	M. Thybulle makes 2-pt dunk from 1 ft (assist by D. Lillard)
+9:36.0	T. Eason makes 3-pt jump shot from 23 ft (assist by D. Nix)	+3	64-78	 	 
+9:21.0	 	 	64-81	+3	M. Thybulle makes 3-pt jump shot from 26 ft (assist by D. Lillard)
+9:09.0	Personal foul by C. Reddish (drawn by K. Martin)	 	64-81	 	 
+9:03.0	D. Nix misses 2-pt jump shot from 23 ft	 	64-81	 	 
+9:00.0	Offensive rebound by J. Smith	 	64-81	 	 
+8:59.0	Shooting foul by M. Thybulle (drawn by J. Smith)	 	64-81	 	 
+8:59.0	 	 	64-81	 	Technical foul by M. Thybulle
+8:59.0	J. Smith misses technical free throw	 	64-81	 	 
+8:59.0	Offensive rebound by Team	 	64-81	 	 
+8:59.0	J. Smith makes free throw 1 of 2	+1	65-81	 	 
+8:59.0	J. Smith makes free throw 2 of 2	+1	66-81	 	 
+8:49.0	 	 	66-81	 	Personal foul by D. Nix (drawn by D. Lillard)
+8:42.0	 	 	66-81	 	D. Lillard misses 3-pt jump shot from 23 ft
+8:41.0	Defensive rebound by K. Martin	 	66-81	 	 
+8:30.0	T. Eason misses 2-pt jump shot from 16 ft	 	66-81	 	 
+8:28.0	 	 	66-81	 	Defensive rebound by Team
+8:28.0	Loose ball foul by T. Eason (drawn by D. Lillard)	 	66-81	 	 
+8:15.0	 	 	66-84	+3	M. Thybulle makes 3-pt jump shot from 27 ft
+7:56.0	D. Nix misses 3-pt jump shot from 26 ft	 	66-84	 	 
+7:55.0	 	 	66-84	 	Defensive rebound by Team
+7:55.0	Loose ball foul by A. Şengün (drawn by D. Eubanks)	 	66-84	 	 
+7:55.0	 	 	66-84	 	D. Eubanks misses free throw 1 of 2
+7:55.0	 	 	66-84	 	Offensive rebound by Team
+7:55.0	 	 	66-85	+1	D. Eubanks makes free throw 2 of 2
+7:32.0	K. Martin misses 2-pt hook shot from 6 ft	 	66-85	 	 
+7:30.0	 	 	66-85	 	Defensive rebound by D. Eubanks
+7:22.0	 	 	66-85	 	D. Lillard misses 2-pt layup from 3 ft (block by J. Smith)
+7:20.0	Defensive rebound by J. Smith	 	66-85	 	 
+7:14.0	Turnover by T. Eason (bad pass; steal by D. Eubanks)	 	66-85	 	 
+7:08.0	 	 	66-85	 	J. Grant misses 3-pt jump shot from 26 ft
+7:06.0	Defensive rebound by A. Şengün	 	66-85	 	 
+6:53.0	Turnover by A. Şengün (traveling)	 	66-85	 	 
+6:53.0	 	 	66-85	 	Portland full timeout
+6:53.0	 	 	66-85	 	N. Little enters the game for J. Grant
+6:53.0	 	 	66-85	 	S. Sharpe enters the game for C. Reddish
+6:42.0	 	 	66-87	+2	S. Sharpe makes 2-pt dunk from 1 ft (assist by D. Lillard)
+6:19.0	A. Şengün misses 2-pt dunk from 2 ft (block by D. Eubanks)	 	66-87	 	 
+6:19.0	Offensive rebound by Team	 	66-87	 	 
+6:12.0	Turnover by Team (shot clock)	 	66-87	 	 
+5:59.0	 	 	66-89	+2	D. Lillard makes 2-pt layup from 1 ft
+5:51.0	Personal foul by D. Eubanks (drawn by A. Şengün)	 	66-89	 	 
+5:37.0	D. Nix makes 3-pt jump shot from 25 ft (assist by J. Smith)	+3	69-89	 	 
+5:21.0	 	 	69-92	+3	D. Lillard makes 3-pt jump shot from 33 ft (assist by M. Thybulle)
+5:07.0	A. Şengün makes 2-pt layup from 2 ft (assist by T. Eason)	+2	71-92	 	 
+5:07.0	Flagrant foul type 1 by D. Eubanks (drawn by A. Şengün)	 	71-92	 	 
+5:07.0	Instant Replay (Request: Ruling Stands)	 	71-92	 	 
+5:07.0	A. Şengün makes flagrant free throw 1 of 1	+1	72-92	 	 
+5:07.0	 	 	72-92	 	T. Watford enters the game for D. Eubanks
+5:01.0	J. Smith misses 3-pt jump shot from 27 ft	 	72-92	 	 
+5:00.0	 	 	72-92	 	Defensive rebound by Team
+5:00.0	Loose ball foul by A. Şengün (drawn by T. Watford)	 	72-92	 	 
+5:00.0	 	 	72-92	 	T. Watford misses free throw 1 of 2
+5:00.0	 	 	72-92	 	Offensive rebound by Team
+5:00.0	U. Garuba enters the game for A. Şengün	 	72-92	 	 
+5:00.0	 	 	72-93	+1	T. Watford makes free throw 2 of 2
+4:46.0	T. Eason misses 2-pt layup from 2 ft	 	72-93	 	 
+4:43.0	Offensive rebound by T. Eason	 	72-93	 	 
+4:43.0	T. Eason makes 2-pt layup at rim	+2	74-93	 	 
+4:30.0	 	 	74-93	 	D. Lillard misses 3-pt jump shot from 27 ft
+4:26.0	Defensive rebound by T. Eason	 	74-93	 	 
+4:12.0	Turnover by D. Nix (bad pass; steal by M. Thybulle)	 	74-93	 	 
+4:09.0	 	 	74-93	 	Turnover by S. Sharpe (palming)
+4:09.0	T. Washington enters the game for J. Smith	 	74-93	 	 
+3:58.0	D. Nix makes 2-pt layup from 1 ft	+2	76-93	 	 
+3:46.0	 	 	76-93	 	Personal foul by K. Martin (drawn by D. Lillard)
+3:46.0	 	 	76-94	+1	D. Lillard makes free throw 1 of 2
+3:46.0	 	 	76-94	 	J. Walker enters the game for M. Thybulle
+3:46.0	 	 	76-95	+1	D. Lillard makes free throw 2 of 2
+3:32.0	U. Garuba makes 3-pt jump shot from 23 ft (assist by K. Martin)	+3	79-95	 	 
+3:07.0	 	 	79-97	+2	D. Lillard makes 2-pt jump shot from 21 ft
+2:56.0	D. Nix makes 2-pt jump shot from 4 ft (assist by T. Washington)	+2	81-97	 	 
+2:42.0	 	 	81-97	 	J. Walker misses 3-pt jump shot from 23 ft
+2:39.0	Defensive rebound by U. Garuba	 	81-97	 	 
+2:29.0	T. Washington misses 2-pt jump shot from 3 ft (block by N. Little)	 	81-97	 	 
+2:27.0	 	 	81-97	 	Defensive rebound by T. Watford
+2:20.0	 	 	81-97	 	D. Lillard misses 3-pt jump shot from 25 ft
+2:17.0	Defensive rebound by D. Nix	 	81-97	 	 
+2:12.0	T. Eason misses 2-pt layup from 2 ft (block by S. Sharpe)	 	81-97	 	 
+2:10.0	 	 	81-97	 	Defensive rebound by N. Little
+2:00.0	 	 	81-97	 	Turnover by T. Watford (lost ball; steal by T. Eason)
+1:55.0	D. Nix misses 2-pt layup from 2 ft (block by J. Walker)	 	81-97	 	 
+1:52.0	Offensive rebound by T. Eason	 	81-97	 	 
+1:52.0	T. Eason misses 2-pt layup at rim	 	81-97	 	 
+1:52.0	Offensive rebound by Team	 	81-97	 	 
+1:52.0	Houston full timeout	 	81-97	 	 
+1:52.0	 	 	81-97	 	K. Johnson enters the game for D. Lillard
+1:44.0	D. Nix misses 3-pt jump shot from 28 ft	 	81-97	 	 
+1:43.0	Offensive rebound by T. Eason	 	81-97	 	 
+1:42.0	T. Eason makes 2-pt layup from 2 ft	+2	83-97	 	 
+1:29.0	 	 	83-100	+3	N. Little makes 3-pt jump shot from 26 ft (assist by K. Johnson)
+1:02.0	T. Washington makes 3-pt jump shot from 23 ft (assist by K. Martin)	+3	86-100	 	 
+0:45.0	 	 	86-100	 	Turnover by S. Sharpe (lost ball; steal by T. Washington)
+0:42.0	Shooting foul by N. Little (drawn by K. Martin)	 	86-100	 	 
+0:42.0	K. Martin makes free throw 1 of 2	+1	87-100	 	 
+0:42.0	J. Christopher enters the game for D. Nix	 	87-100	 	 
+0:42.0	K. Martin makes free throw 2 of 2	+1	88-100	 	 
+0:32.0	 	 	88-102	+2	J. Walker makes 2-pt layup from 2 ft (assist by K. Johnson)
+0:19.0	J. Christopher misses 3-pt jump shot from 25 ft	 	88-102	 	 
+0:16.0	 	 	88-102	 	Defensive rebound by N. Little
+0:00.0	 	 	88-102	 	S. Sharpe misses 2-pt jump shot from 9 ft
+0:00.0	Defensive rebound by K. Martin	 	88-102	 	 
+0:00.0	End of 3rd quarter
+4th Q
+Time	Houston		Score		Portland
+12:00.0	Start of 4th quarter
+11:44.0	 	 	88-102	 	K. Johnson misses 2-pt jump shot from 9 ft
+11:42.0	Defensive rebound by B. Marjanović	 	88-102	 	 
+11:34.0	B. Marjanović makes 2-pt layup from 1 ft (assist by J. Tate)	+2	90-102	 	 
+11:14.0	 	 	90-102	 	S. Sharpe misses 3-pt jump shot from 28 ft
+11:11.0	Defensive rebound by T. Washington	 	90-102	 	 
+11:08.0	T. Eason misses 2-pt layup from 1 ft	 	90-102	 	 
+11:06.0	Offensive rebound by T. Eason	 	90-102	 	 
+11:06.0	T. Eason makes 2-pt layup from 1 ft	+2	92-102	 	 
+10:50.0	 	 	92-102	 	J. Walker misses 2-pt layup from 2 ft
+10:48.0	Defensive rebound by T. Eason	 	92-102	 	 
+10:40.0	B. Marjanović makes 2-pt layup from 2 ft (assist by T. Washington)	+2	94-102	 	 
+10:40.0	 	 	94-102	 	Portland full timeout
+10:40.0	 	 	94-102	 	D. Eubanks enters the game for K. Johnson
+10:40.0	 	 	94-102	 	D. Lillard enters the game for N. Little
+10:40.0	 	 	94-102	 	C. Reddish enters the game for S. Sharpe
+10:40.0	 	 	94-102	 	M. Thybulle enters the game for J. Walker
+10:29.0	 	 	94-105	+3	D. Lillard makes 3-pt jump shot from 26 ft
+10:11.0	B. Marjanović makes 2-pt hook shot from 2 ft (assist by T. Washington)	+2	96-105	 	 
+10:00.0	 	 	96-105	 	M. Thybulle misses 3-pt jump shot from 27 ft
+9:58.0	Defensive rebound by J. Tate	 	96-105	 	 
+9:54.0	J. Tate makes 2-pt layup from 1 ft	+2	98-105	 	 
+9:32.0	 	 	98-108	+3	J. Grant makes 3-pt jump shot from 23 ft (assist by D. Lillard)
+9:12.0	Turnover by B. Marjanović (lost ball; steal by C. Reddish)	 	98-108	 	 
+9:08.0	 	 	98-108	 	Offensive foul by J. Grant (drawn by J. Christopher)
+9:08.0	 	 	98-108	 	Turnover by J. Grant (offensive foul)
+8:51.0	T. Washington misses 3-pt jump shot from 27 ft	 	98-108	 	 
+8:49.0	 	 	98-108	 	Defensive rebound by D. Lillard
+8:49.0	 	 	98-108	 	Personal foul by B. Marjanović (drawn by D. Lillard)
+8:49.0	J. Smith enters the game for B. Marjanović	 	98-108	 	 
+8:42.0	 	 	98-108	 	Personal foul by J. Christopher (drawn by D. Lillard)
+8:35.0	 	 	98-108	 	Turnover by D. Lillard (out of bounds lost ball)
+8:19.0	T. Washington makes 3-pt jump shot from 23 ft (assist by J. Tate)	+3	101-108	 	 
+7:59.0	 	 	101-108	 	D. Lillard misses 2-pt jump shot from 18 ft
+7:57.0	Defensive rebound by J. Christopher	 	101-108	 	 
+7:48.0	J. Christopher misses 2-pt jump shot from 13 ft	 	101-108	 	 
+7:45.0	Offensive rebound by T. Eason	 	101-108	 	 
+7:45.0	T. Eason makes 2-pt layup from 1 ft	+2	103-108	 	 
+7:26.0	 	 	103-108	 	J. Grant misses 2-pt layup from 1 ft
+7:24.0	 	 	103-108	 	Offensive rebound by D. Eubanks
+7:24.0	 	 	103-110	+2	D. Eubanks makes 2-pt dunk at rim
+7:06.0	J. Smith misses 3-pt jump shot from 26 ft	 	103-110	 	 
+7:02.0	 	 	103-110	 	Defensive rebound by J. Grant
+6:43.0	 	 	103-113	+3	D. Lillard makes 3-pt jump shot from 26 ft (assist by J. Grant)
+6:28.0	J. Tate misses 2-pt layup from 3 ft	 	103-113	 	 
+6:27.0	 	 	103-113	 	Defensive rebound by D. Lillard
+6:20.0	 	 	103-115	+2	D. Lillard makes 2-pt dunk from 1 ft
+6:20.0	 	 	103-115	 	Shooting foul by J. Smith (drawn by D. Lillard)
+6:20.0	Houston full timeout	 	103-115	 	 
+6:20.0	D. Nix enters the game for J. Christopher	 	103-115	 	 
+6:20.0	 	 	103-115	 	T. Watford enters the game for D. Eubanks
+6:20.0	 	 	103-116	+1	D. Lillard makes free throw 1 of 1
+5:59.0	T. Eason misses 2-pt jump shot from 11 ft	 	103-116	 	 
+5:57.0	Offensive rebound by J. Smith	 	103-116	 	 
+5:56.0	Turnover by J. Smith (lost ball; steal by J. Grant)	 	103-116	 	 
+5:48.0	 	 	103-116	 	Shooting foul by D. Nix (drawn by D. Lillard)
+5:48.0	 	 	103-117	+1	D. Lillard makes free throw 1 of 2
+5:48.0	K. Martin enters the game for T. Eason	 	103-117	 	 
+5:48.0	 	 	103-118	+1	D. Lillard makes free throw 2 of 2
+5:31.0	Turnover by K. Martin (bad pass; steal by C. Reddish)	 	103-118	 	 
+5:19.0	 	 	103-118	 	Turnover by D. Lillard (bad pass; steal by J. Smith)
+5:18.0	Personal foul by M. Thybulle (drawn by J. Smith)	 	103-118	 	 
+5:04.0	J. Tate makes 2-pt layup from 1 ft	+2	105-118	 	 
+4:43.0	 	 	105-121	+3	D. Lillard makes 3-pt jump shot from 28 ft
+4:32.0	D. Nix misses 2-pt jump shot from 9 ft (block by M. Thybulle)	 	105-121	 	 
+4:30.0	Offensive rebound by Team	 	105-121	 	 
+4:30.0	Jump ball: D. Nix vs. M. Thybulle (K. Martin gains possession)
+4:28.0	Jump ball: D. Nix vs. M. Thybulle (K. Martin gains possession)
+4:16.0	Turnover by J. Tate (traveling)	 	105-121	 	 
+4:06.0	 	 	105-121	 	D. Lillard misses 3-pt jump shot from 34 ft
+4:02.0	Defensive rebound by K. Martin	 	105-121	 	 
+3:59.0	D. Nix makes 2-pt layup from 1 ft (assist by J. Smith)	+2	107-121	 	 
+3:47.0	 	 	107-121	 	Personal foul by K. Martin (drawn by D. Lillard)
+3:47.0	Houston full timeout	 	107-121	 	 
+3:47.0	 	 	107-122	+1	D. Lillard makes free throw 1 of 2
+3:47.0	 	 	107-123	+1	D. Lillard makes free throw 2 of 2
+3:33.0	Personal foul by M. Thybulle (drawn by D. Nix)	 	107-123	 	 
+3:25.0	T. Washington makes 2-pt layup from 1 ft	+2	109-123	 	 
+3:07.0	 	 	109-123	 	D. Lillard misses 3-pt jump shot from 33 ft
+3:03.0	Defensive rebound by T. Washington	 	109-123	 	 
+2:56.0	K. Martin misses 2-pt layup from 6 ft	 	109-123	 	 
+2:56.0	Offensive rebound by Team	 	109-123	 	 
+2:51.0	J. Tate misses 3-pt jump shot from 28 ft	 	109-123	 	 
+2:49.0	 	 	109-123	 	Defensive rebound by T. Watford
+2:40.0	 	 	109-123	 	D. Lillard misses 2-pt layup from 1 ft
+2:38.0	Defensive rebound by K. Martin	 	109-123	 	 
+2:35.0	Offensive foul by D. Nix (drawn by T. Watford)	 	109-123	 	 
+2:35.0	Turnover by D. Nix (offensive foul)	 	109-123	 	 
+2:35.0	T. Eason enters the game for K. Martin	 	109-123	 	 
+2:35.0	Houston full timeout	 	109-123	 	 
+2:35.0	K. Martin enters the game for T. Eason	 	109-123	 	 
+2:35.0	Instant Replay (Challenge: Stands)	 	109-123	 	 
+2:35.0	T. Eason enters the game for K. Martin	 	109-123	 	 
+2:23.0	 	 	109-126	+3	D. Lillard makes 3-pt jump shot from 25 ft (assist by C. Reddish)
+2:03.0	J. Smith makes 2-pt layup from 1 ft (assist by D. Nix)	+2	111-126	 	 
+1:50.0	 	 	111-126	 	D. Lillard misses 2-pt jump shot from 7 ft
+1:49.0	 	 	111-126	 	Offensive rebound by M. Thybulle
+1:42.0	 	 	111-128	+2	D. Lillard makes 2-pt jump shot from 11 ft
+1:24.0	J. Smith makes 2-pt layup from 1 ft (assist by T. Eason)	+2	113-128	 	 
+1:14.0	 	 	113-128	 	D. Lillard misses 3-pt jump shot from 33 ft
+1:11.0	Defensive rebound by J. Smith	 	113-128	 	 
+1:06.0	Turnover by J. Smith (lost ball; steal by C. Reddish)	 	113-128	 	 
+0:47.0	 	 	113-131	+3	C. Reddish makes 3-pt jump shot from 25 ft (assist by T. Watford)
+0:44.0	Personal take foul by M. Thybulle (drawn by T. Washington)	 	113-131	 	 
+0:44.0	 	 	113-131	 	K. Johnson enters the game for D. Lillard
+0:39.0	Shooting foul by M. Thybulle (drawn by J. Tate)	 	113-131	 	 
+0:39.0	J. Tate misses free throw 1 of 2	 	113-131	 	 
+0:39.0	Offensive rebound by Team	 	113-131	 	 
+0:39.0	 	 	113-131	 	K. Knox enters the game for J. Grant
+0:39.0	 	 	113-131	 	N. Little enters the game for C. Reddish
+0:39.0	 	 	113-131	 	S. Sharpe enters the game for M. Thybulle
+0:39.0	 	 	113-131	 	J. Walker enters the game for T. Watford
+0:39.0	J. Tate makes free throw 2 of 2	+1	114-131	 	 
+0:15.0	 	 	114-131	 	Turnover by Team (shot clock)
+0:00.0	End of 4th quarter
