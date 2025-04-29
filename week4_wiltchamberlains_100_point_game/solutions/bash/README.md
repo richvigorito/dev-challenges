@@ -29,16 +29,7 @@ sudo apt install jq
 ```bash
 bash simulate.sh
 ```
-
-The simulation will play in your terminal, showing the running scores:
-
-```
-Wilt: 24   Dame: 16   Other: 0
-Wilt: 26   Dame: 18   Other: 0
-Wilt: 30   Dame: 20   Other: 0
-```
-
-## 🎥 Simulation Video
+### 🎥 Output
 You can watch the live simulation of the scoring events below:
 ![Watch the simulation](simulation.gif)
 
