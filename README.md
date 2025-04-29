@@ -23,7 +23,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 - Week 9 - Whats the Secret Handshake
 - Week 10 - One digit at a time, no judgment!
 - Week 11 - resrever gnirts
-  ...and many more to come!
+  ...and more to come!
 
 ---
 
