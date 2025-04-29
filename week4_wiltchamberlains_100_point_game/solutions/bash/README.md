@@ -38,18 +38,13 @@ Wilt: 26   Dame: 18   Other: 0
 Wilt: 30   Dame: 20   Other: 0
 ```
 
-## 🎥 Bonus: Watch a Simulation Video
+## 🎥 Simulation Video
 
-A pre-recorded version is available: `simulation.webm`.
+You can watch the live simulation of the scoring events below:
 
-You can open it with any video player (e.g., VLC) or embed it in a webpage:
+[![Watch the simulation](https://via.placeholder.com/600x400.png?text=Click+to+Watch+Simulation)](simulation.webm)
 
-```html
-<video controls width="600">
-  <source src="simulation.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-```
+Click the image above to view the simulation video in your browser.
 
 ---
 
