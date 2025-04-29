@@ -78,3 +78,4 @@ Feel free to submit challenge ideas or create a pull request with your own worki
 ---
 ### 🙌 Let's Code, Let's Build, Let's Have Fun!
 Happy coding, and maybe grab a beer while you're at it! 🍻
+Follow for the latest challenge releases on [Twitter](https://x.com/hotfixfridays).
