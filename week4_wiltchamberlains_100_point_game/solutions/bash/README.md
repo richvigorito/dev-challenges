@@ -30,7 +30,6 @@ sudo apt install jq
 bash simulate.sh
 ```
 ### 🎥 Output
-You can watch the live simulation of the scoring events below:
 ![Watch the simulation](simulation.gif)
 
 ... i know what you're thinking; minds blown! 
