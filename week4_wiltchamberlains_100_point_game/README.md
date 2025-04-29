@@ -64,7 +64,7 @@ Imagine:
 ---
 
 ## 🛠 Solutions Available:
-[![Python](https://img.shields.io/badge/C-99-blue?logo=c)](solutions/python/matplotlib_ex)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](solutions/python/matplotlib_ex)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](solutions/bash)
 
 ---
