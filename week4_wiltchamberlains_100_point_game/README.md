@@ -5,8 +5,6 @@ Bring the **greatest scoring performance** to life by visualizing how points wer
 
 On March 2nd, 1962 Wilt Chamberlain set the [single-game scoring record by scoring 100 points](https://en.wikipedia.org/wiki/Wilt_Chamberlain%27s_100-point_game) in a single game. Though somewhat shrouded in myth — no official second-by-second record exists, for this challenge, we've created a **plausible** per-second breakdown based on historical accounts and pacing estimates. By contrast, modern games have **accurate** event tracking down to the second — using NBA Play-by-Play logs and SportVU data. As such, being a Portland Native, we'll also provide Damian Lillard's 71 point games on February 26th, 2023 as a comparason. 
 
-You'll learn about **data transformation**, **dynamic rendering**, and **creative visualization** — skills used everywhere from sports analytics to real-time dashboards.
-
 ---
 ## 🏁 Challenge Format:
 **Individual or Collaborative** 👤👥 Create a dynamic visualization that updates once per second, replaying the players' scoring race in real time.
@@ -33,7 +31,6 @@ You'll learn about **data transformation**, **dynamic rendering**, and **creativ
 ---
 
 ### 🎨 Examples:
-
 - 📊 A real-time updating **graph** of points scored over time.
 - 🎬 A **terminal animation** showing points ticking up.
 - 🖼 A **static chart** displaying cumulative points at the end.
@@ -60,8 +57,9 @@ Imagine:
 ---
 
 ## 📂 Starter Files Provided:
-- `wilt_chamberlain.csv`
-- `damian_lillard.json`
+- `wilt.json`
+- `dame.json`
+- `rudy.json`
 
 ---
 
