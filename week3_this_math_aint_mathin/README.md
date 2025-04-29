@@ -1,4 +1,4 @@
-# 🏆 Week [4] - Arithmetic From Scratch
+# 🏆 Week [3] - Arithmetic From Scratch
 
 ## 📝 Challenge Overview
 

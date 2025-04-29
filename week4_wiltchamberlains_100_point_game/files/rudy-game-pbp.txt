@@ -1,0 +1,454 @@
+12:00.0	Start of 1st quarter
+12:00.0	Jump ball: R. Gobert vs. K. Porziņģis (G. Hill gains possession)
+11:43.0	 	 	0-0	 	G. Hayward misses 2-pt layup from 2 ft
+11:40.0	Defensive rebound by L. Thomas	 	0-0	 	 
+11:24.0	C. Lee makes 2-pt jump shot from 15 ft (assist by D. Rose)	+2	2-0	 	 
+11:00.0	 	 	2-0	 	R. Hood misses 3-pt jump shot from 26 ft
+10:59.0	Defensive rebound by K. Porziņģis	 	2-0	 	 
+10:53.0	D. Rose makes 2-pt layup from 3 ft	+2	4-0	 	 
+10:37.0	 	 	4-0	 	G. Hill misses 2-pt jump shot from 5 ft
+10:36.0	 	 	4-0	 	Offensive rebound by R. Gobert
+10:36.0	 	 	4-0	 	R. Gobert misses 2-pt layup from 2 ft
+10:34.0	 	 	4-0	 	Offensive rebound by R. Gobert
+10:30.0	 	 	4-0	 	G. Hayward misses 3-pt jump shot from 25 ft
+10:29.0	 	 	4-0	 	Offensive rebound by G. Hayward
+10:24.0	 	 	4-0	 	G. Hayward misses 2-pt layup from 3 ft
+10:23.0	Defensive rebound by C. Anthony	 	4-0	 	 
+10:15.0	 	 	4-0	 	Violation by G. Hayward (def goaltending)
+10:15.0	L. Thomas makes 2-pt layup from 2 ft	+2	6-0	 	 
+10:01.0	 	 	6-2	+2	R. Hood makes 2-pt jump shot from 19 ft (assist by G. Hill)
+9:39.0	D. Rose makes 2-pt layup from 3 ft	+2	8-2	 	 
+9:34.0	 	 	8-2	 	Utah full timeout
+9:27.0	 	 	8-2	 	Turnover by G. Hill (bad pass; steal by K. Porziņģis)
+9:20.0	L. Thomas misses 2-pt jump shot from 13 ft	 	8-2	 	 
+9:19.0	Offensive rebound by L. Thomas	 	8-2	 	 
+9:12.0	D. Rose makes 2-pt jump shot from 9 ft (assist by C. Lee)	+2	10-2	 	 
+8:53.0	 	 	10-4	+2	G. Hill makes 2-pt jump shot from 18 ft
+8:35.0	K. Porziņģis makes 3-pt jump shot from 26 ft (assist by D. Rose)	+3	13-4	 	 
+8:22.0	 	 	13-6	+2	B. Diaw makes 2-pt layup from 2 ft (assist by R. Gobert)
+8:07.0	K. Porziņģis makes 3-pt jump shot from 26 ft (assist by C. Anthony)	+3	16-6	 	 
+7:40.0	 	 	16-6	 	B. Diaw misses 2-pt jump shot from 5 ft
+7:39.0	Defensive rebound by L. Thomas	 	16-6	 	 
+7:27.0	L. Thomas misses 2-pt jump shot from 3 ft	 	16-6	 	 
+7:26.0	 	 	16-6	 	Defensive rebound by G. Hill
+7:11.0	 	 	16-9	+3	B. Diaw makes 3-pt jump shot from 24 ft (assist by G. Hill)
+6:58.0	K. Porziņģis misses 2-pt layup from 2 ft (block by R. Gobert)	 	16-9	 	 
+6:56.0	Offensive rebound by L. Thomas	 	16-9	 	 
+6:51.0	L. Thomas makes 2-pt layup from 2 ft	+2	18-9	 	 
+6:38.0	 	 	18-9	 	B. Diaw misses 2-pt layup from 2 ft
+6:37.0	 	 	18-9	 	Offensive rebound by R. Gobert
+6:37.0	 	 	18-11	+2	R. Gobert makes 2-pt dunk at rim
+6:23.0	D. Rose misses 2-pt jump shot from 18 ft	 	18-11	 	 
+6:22.0	 	 	18-11	 	Defensive rebound by G. Hayward
+6:10.0	 	 	18-11	 	B. Diaw misses 2-pt jump shot from 23 ft
+6:09.0	Defensive rebound by D. Rose	 	18-11	 	 
+5:55.0	L. Thomas misses 2-pt layup from 2 ft (block by R. Gobert)	 	18-11	 	 
+5:55.0	 	 	18-11	 	Defensive rebound by R. Gobert
+5:46.0	 	 	18-13	+2	R. Gobert makes 2-pt layup from 2 ft (assist by G. Hill)
+5:29.0	C. Anthony makes 2-pt jump shot from 11 ft (assist by L. Thomas)	+2	20-13	 	 
+5:00.0	 	 	20-13	 	G. Hayward misses 3-pt jump shot from 24 ft
+4:59.0	Defensive rebound by K. Porziņģis	 	20-13	 	 
+4:40.0	K. Porziņģis misses 3-pt jump shot from 25 ft	 	20-13	 	 
+4:40.0	 	 	20-13	 	Defensive rebound by G. Hill
+4:23.0	 	 	20-13	 	Turnover by G. Hill (bad pass)
+4:23.0	 	 	20-13	 	R. Neto enters the game for G. Hill
+4:23.0	 	 	20-13	 	J. Johnson enters the game for B. Diaw
+4:23.0	 	 	20-13	 	J. Ingles enters the game for R. Hood
+4:23.0	New York full timeout	 	20-13	 	 
+4:23.0	M. Kuzminskas enters the game for L. Thomas	 	20-13	 	 
+4:23.0	W. Hernangómez enters the game for K. Porziņģis	 	20-13	 	 
+4:10.0	C. Lee makes 3-pt jump shot from 25 ft (assist by D. Rose)	+3	23-13	 	 
+3:54.0	 	 	23-13	 	Turnover by R. Gobert (bad pass; steal by W. Hernangómez)
+3:42.0	W. Hernangómez makes 2-pt jump shot from 9 ft (assist by D. Rose)	+2	25-13	 	 
+3:29.0	 	 	25-15	+2	R. Gobert makes 2-pt dunk at rim (assist by G. Hayward)
+3:13.0	Personal foul by R. Neto (drawn by C. Lee)	 	25-15	 	 
+3:02.0	C. Anthony makes 2-pt jump shot from 13 ft	+2	27-15	 	 
+2:41.0	 	 	27-18	+3	J. Ingles makes 3-pt jump shot from 26 ft (assist by J. Johnson)
+2:26.0	M. Kuzminskas misses 2-pt layup from 3 ft	 	27-18	 	 
+2:25.0	Offensive rebound by W. Hernangómez	 	27-18	 	 
+2:22.0	W. Hernangómez makes 2-pt layup from 2 ft	+2	29-18	 	 
+2:07.0	 	 	29-20	+2	R. Gobert makes 2-pt layup from 2 ft (assist by J. Ingles)
+2:07.0	 	 	29-20	 	Shooting foul by W. Hernangómez (drawn by R. Gobert)
+2:07.0	 	 	29-20	 	R. Gobert misses free throw 1 of 1
+2:06.0	Defensive rebound by W. Hernangómez	 	29-20	 	 
+1:56.0	Turnover by D. Rose (traveling)	 	29-20	 	 
+1:56.0	 	 	29-20	 	A. Burks enters the game for G. Hayward
+1:56.0	 	 	29-20	 	J. Withey enters the game for R. Gobert
+1:56.0	 	 	29-20	 	G. Hill enters the game for R. Neto
+1:39.0	 	 	29-20	 	J. Ingles misses 3-pt jump shot from 27 ft
+1:37.0	Defensive rebound by W. Hernangómez	 	29-20	 	 
+1:28.0	C. Lee misses 2-pt jump shot from 15 ft	 	29-20	 	 
+1:28.0	 	 	29-20	 	Defensive rebound by J. Ingles
+1:28.0	 	 	29-20	 	J. Ingles misses 2-pt jump shot from 4 ft
+1:28.0	 	 	29-20	 	Offensive rebound by Team
+1:20.0	Loose ball foul by M. Kuzminskas (drawn by J. Withey)	 	29-20	 	 
+1:20.0	R. Baker enters the game for D. Rose	 	29-20	 	 
+1:20.0	J. Holiday enters the game for C. Lee	 	29-20	 	 
+1:08.0	 	 	29-20	 	G. Hill misses 2-pt jump shot from 6 ft
+1:05.0	Defensive rebound by R. Baker	 	29-20	 	 
+0:57.0	Turnover by J. Holiday (bad pass; steal by J. Withey)	 	29-20	 	 
+0:53.0	 	 	29-22	+2	J. Withey makes 2-pt layup from 2 ft (assist by A. Burks)
+0:45.0	Shooting foul by J. Johnson (drawn by C. Anthony)	 	29-22	 	 
+0:45.0	C. Anthony makes free throw 1 of 3	+1	30-22	 	 
+0:45.0	C. Anthony makes free throw 2 of 3	+1	31-22	 	 
+0:45.0	C. Anthony makes free throw 3 of 3	+1	32-22	 	 
+0:36.0	 	 	32-24	+2	G. Hill makes 2-pt layup from 2 ft
+0:25.0	C. Anthony misses 2-pt jump shot from 14 ft	 	32-24	 	 
+0:25.0	Offensive rebound by W. Hernangómez	 	32-24	 	 
+0:19.0	Turnover by W. Hernangómez (bad pass; steal by A. Burks)	 	32-24	 	 
+0:16.0	 	 	32-26	+2	G. Hill makes 2-pt layup from 2 ft (assist by A. Burks)
+0:01.0	Shooting foul by J. Johnson (drawn by C. Anthony)	 	32-26	 	 
+0:01.0	C. Anthony makes free throw 1 of 2	+1	33-26	 	 
+0:01.0	C. Anthony makes free throw 2 of 2	+1	34-26	 	 
+0:00.0	End of 1st quarter
+2nd Q
+Time	New York		Score		Utah
+12:00.0	Start of 2nd quarter
+11:44.0	R. Baker misses 2-pt layup from 4 ft	 	34-26	 	 
+11:44.0	 	 	34-26	 	Defensive rebound by Team
+11:44.0	Loose ball foul by W. Hernangómez (drawn by J. Withey)	 	34-26	 	 
+11:25.0	 	 	34-26	 	A. Burks misses 2-pt jump shot from 11 ft
+11:23.0	Defensive rebound by L. Thomas	 	34-26	 	 
+11:07.0	W. Hernangómez misses 2-pt layup from 3 ft	 	34-26	 	 
+11:07.0	 	 	34-26	 	Defensive rebound by J. Ingles
+10:58.0	 	 	34-26	 	J. Johnson misses 3-pt jump shot from 24 ft
+10:57.0	Defensive rebound by W. Hernangómez	 	34-26	 	 
+10:45.0	Personal foul by J. Johnson (drawn by K. Porziņģis)	 	34-26	 	 
+10:45.0	K. Porziņģis makes free throw 1 of 2	+1	35-26	 	 
+10:45.0	 	 	35-26	 	T. Lyles enters the game for J. Johnson
+10:45.0	K. O'Quinn enters the game for W. Hernangómez	 	35-26	 	 
+10:45.0	K. Porziņģis makes free throw 2 of 2	+1	36-26	 	 
+10:30.0	 	 	36-26	 	T. Lyles misses 2-pt jump shot from 17 ft
+10:29.0	 	 	36-26	 	Offensive rebound by J. Withey
+10:29.0	 	 	36-26	 	Shooting foul by K. Porziņģis (drawn by J. Withey)
+10:29.0	 	 	36-27	+1	J. Withey makes free throw 1 of 2
+10:29.0	 	 	36-28	+1	J. Withey makes free throw 2 of 2
+10:12.0	Shooting foul by T. Lyles (drawn by K. Porziņģis)	 	36-28	 	 
+10:12.0	K. Porziņģis misses free throw 1 of 2	 	36-28	 	 
+10:12.0	Offensive rebound by Team	 	36-28	 	 
+10:12.0	 	 	36-28	 	R. Hood enters the game for A. Burks
+10:12.0	K. Porziņģis makes free throw 2 of 2	+1	37-28	 	 
+10:01.0	 	 	37-28	 	G. Hill misses 2-pt jump shot from 3 ft
+9:59.0	Defensive rebound by R. Baker	 	37-28	 	 
+9:54.0	R. Baker misses 2-pt jump shot from 4 ft (block by J. Withey)	 	37-28	 	 
+9:53.0	 	 	37-28	 	Defensive rebound by G. Hill
+9:43.0	 	 	37-31	+3	G. Hill makes 3-pt jump shot from 26 ft (assist by J. Ingles)
+9:30.0	J. Holiday misses 3-pt jump shot from 26 ft	 	37-31	 	 
+9:30.0	 	 	37-31	 	Defensive rebound by Team
+9:15.0	 	 	37-31	 	G. Hill misses 3-pt jump shot from 27 ft
+9:13.0	Defensive rebound by K. O'Quinn	 	37-31	 	 
+8:58.0	K. O'Quinn misses 2-pt jump shot from 9 ft	 	37-31	 	 
+8:58.0	 	 	37-31	 	Defensive rebound by T. Lyles
+8:42.0	 	 	37-31	 	J. Ingles misses 3-pt jump shot from 23 ft
+8:41.0	Defensive rebound by K. O'Quinn	 	37-31	 	 
+8:21.0	K. O'Quinn makes 2-pt jump shot from 19 ft	+2	39-31	 	 
+8:14.0	 	 	39-31	 	Utah full timeout
+8:14.0	 	 	39-31	 	R. Neto enters the game for G. Hill
+8:14.0	 	 	39-31	 	R. Gobert enters the game for J. Withey
+8:14.0	 	 	39-31	 	G. Hayward enters the game for J. Ingles
+8:07.0	 	 	39-31	 	T. Lyles misses 3-pt jump shot from 25 ft
+8:07.0	Defensive rebound by L. Thomas	 	39-31	 	 
+7:48.0	J. Holiday makes 2-pt jump shot from 20 ft (assist by K. O'Quinn)	+2	41-31	 	 
+7:34.0	 	 	41-33	+2	G. Hayward makes 2-pt layup from 2 ft (assist by R. Neto)
+7:34.0	R. Baker misses 2-pt jump shot from 11 ft	 	41-33	 	 
+7:34.0	Offensive rebound by Team	 	41-33	 	 
+7:34.0	Offensive foul by K. O'Quinn (drawn by R. Gobert)	 	41-33	 	 
+7:29.0	Turnover by K. O'Quinn (offensive foul)	 	41-33	 	 
+7:18.0	 	 	41-33	 	B. Diaw enters the game for T. Lyles
+7:15.0	D. Rose enters the game for R. Baker	 	41-33	 	 
+7:05.0	 	 	41-33	 	B. Diaw misses 2-pt layup from 2 ft
+7:05.0	Defensive rebound by K. O'Quinn	 	41-33	 	 
+6:55.0	D. Rose makes 2-pt jump shot from 9 ft	+2	43-33	 	 
+6:41.0	 	 	43-33	 	G. Hayward misses 2-pt jump shot from 17 ft
+6:40.0	Defensive rebound by J. Holiday	 	43-33	 	 
+6:30.0	K. Porziņģis misses 3-pt jump shot from 25 ft	 	43-33	 	 
+6:29.0	 	 	43-33	 	Defensive rebound by G. Hayward
+6:23.0	 	 	43-33	 	Offensive foul by R. Gobert (drawn by L. Thomas)
+6:23.0	 	 	43-33	 	Turnover by R. Gobert (offensive foul)
+6:11.0	Shooting foul by R. Neto (drawn by D. Rose)	 	43-33	 	 
+6:11.0	D. Rose makes free throw 1 of 2	+1	44-33	 	 
+6:11.0	D. Rose makes free throw 2 of 2	+1	45-33	 	 
+5:52.0	 	 	45-36	+3	R. Neto makes 3-pt jump shot from 24 ft (assist by G. Hayward)
+5:34.0	Turnover by J. Holiday (bad pass; steal by G. Hayward)	 	45-36	 	 
+5:27.0	 	 	45-38	+2	R. Gobert makes 2-pt dunk at rim (assist by B. Diaw)
+5:27.0	New York full timeout	 	45-38	 	 
+5:27.0	C. Lee enters the game for J. Holiday	 	45-38	 	 
+5:27.0	C. Anthony enters the game for K. O'Quinn	 	45-38	 	 
+5:11.0	D. Rose makes 2-pt layup from 2 ft (assist by L. Thomas)	+2	47-38	 	 
+5:00.0	 	 	47-38	 	G. Hayward misses 3-pt jump shot from 25 ft
+4:59.0	Defensive rebound by Team	 	47-38	 	 
+4:52.0	Shooting foul by R. Gobert (drawn by K. Porziņģis)	 	47-38	 	 
+4:52.0	K. Porziņģis makes free throw 1 of 2	+1	48-38	 	 
+4:52.0	 	 	48-38	 	G. Hill enters the game for R. Neto
+4:52.0	K. Porziņģis makes free throw 2 of 2	+1	49-38	 	 
+4:39.0	 	 	49-38	 	Turnover by G. Hill (lost ball; steal by C. Lee)
+4:32.0	C. Lee makes 2-pt layup from 2 ft	+2	51-38	 	 
+4:11.0	 	 	51-38	 	G. Hill misses 3-pt jump shot from 25 ft
+4:11.0	 	 	51-38	 	Offensive rebound by Team
+4:11.0	Loose ball foul by K. Porziņģis (drawn by R. Gobert)	 	51-38	 	 
+4:11.0	 	 	51-38	 	J. Ingles enters the game for B. Diaw
+3:57.0	 	 	51-40	+2	G. Hayward makes 2-pt jump shot from 9 ft
+3:57.0	 	 	51-40	 	Shooting foul by K. Porziņģis (drawn by G. Hayward)
+3:57.0	Violation by Team (jump ball)	 	51-40	 	 
+3:57.0	K. O'Quinn enters the game for K. Porziņģis	 	51-40	 	 
+3:57.0	 	 	51-41	+1	G. Hayward makes free throw 1 of 1
+3:32.0	K. O'Quinn makes 2-pt jump shot from 9 ft (assist by C. Lee)	+2	53-41	 	 
+3:09.0	 	 	53-43	+2	R. Gobert makes 2-pt dunk at rim (assist by R. Hood)
+2:43.0	L. Thomas misses 3-pt jump shot from 24 ft	 	53-43	 	 
+2:43.0	 	 	53-43	 	Defensive rebound by G. Hill
+2:32.0	 	 	53-43	 	J. Ingles misses 3-pt jump shot from 24 ft
+2:31.0	Defensive rebound by L. Thomas	 	53-43	 	 
+2:25.0	Turnover by D. Rose (lost ball)	 	53-43	 	 
+2:25.0	 	 	53-43	 	Utah full timeout
+2:12.0	 	 	53-43	 	Shooting foul by K. O'Quinn (drawn by R. Gobert)
+2:12.0	 	 	53-43	 	R. Gobert misses free throw 1 of 2
+2:12.0	 	 	53-43	 	Offensive rebound by Team
+2:12.0	 	 	53-44	+1	R. Gobert makes free throw 2 of 2
+1:58.0	C. Anthony makes 2-pt jump shot from 23 ft (assist by D. Rose)	+2	55-44	 	 
+1:42.0	 	 	55-46	+2	J. Ingles makes 2-pt layup from 3 ft
+1:27.0	C. Anthony misses 2-pt jump shot from 10 ft	 	55-46	 	 
+1:27.0	 	 	55-46	 	Defensive rebound by R. Gobert
+1:13.0	 	 	55-46	 	G. Hill misses 2-pt jump shot from 3 ft
+1:12.0	 	 	55-46	 	Offensive rebound by R. Gobert
+1:10.0	 	 	55-48	+2	R. Gobert makes 2-pt dunk at rim
+0:46.0	D. Rose misses 2-pt jump shot from 20 ft	 	55-48	 	 
+0:45.0	 	 	55-48	 	Defensive rebound by R. Hood
+0:35.0	 	 	55-48	 	Shooting foul by K. O'Quinn (drawn by R. Hood)
+0:35.0	 	 	55-49	+1	R. Hood makes free throw 1 of 2
+0:35.0	 	 	55-49	 	R. Hood misses free throw 2 of 2
+0:35.0	W. Hernangómez enters the game for K. O'Quinn	 	55-49	 	 
+0:32.0	Defensive rebound by W. Hernangómez	 	55-49	 	 
+0:14.0	C. Anthony misses 2-pt jump shot from 13 ft	 	55-49	 	 
+0:14.0	Offensive rebound by W. Hernangómez	 	55-49	 	 
+0:11.0	New York full timeout	 	55-49	 	 
+0:11.0	K. Porziņģis enters the game for L. Thomas	 	55-49	 	 
+0:10.0	Turnover by C. Lee (bad pass; steal by R. Gobert)	 	55-49	 	 
+0:08.0	 	 	55-51	+2	R. Gobert makes 2-pt dunk at rim
+0:00.0	C. Anthony misses 3-pt jump shot from 25 ft	 	55-51	 	 
+0:00.0	Offensive rebound by Team	 	55-51	 	 
+0:00.0	End of 2nd quarter
+3rd Q
+Time	New York		Score		Utah
+12:00.0	Start of 3rd quarter
+11:38.0	L. Thomas misses 2-pt layup from 2 ft (block by R. Gobert)	 	55-51	 	 
+11:37.0	 	 	55-51	 	Defensive rebound by B. Diaw
+11:14.0	 	 	55-51	 	R. Hood misses 3-pt jump shot from 25 ft
+11:13.0	Defensive rebound by K. Porziņģis	 	55-51	 	 
+11:05.0	C. Anthony misses 3-pt jump shot from 25 ft	 	55-51	 	 
+11:05.0	 	 	55-51	 	Defensive rebound by G. Hill
+10:55.0	 	 	55-51	 	G. Hayward misses 3-pt jump shot from 26 ft
+10:55.0	 	 	55-51	 	Offensive rebound by G. Hayward
+10:43.0	 	 	55-51	 	R. Hood misses 2-pt jump shot from 10 ft
+10:42.0	 	 	55-51	 	Offensive rebound by Team
+10:25.0	 	 	55-51	 	G. Hayward misses 3-pt jump shot from 25 ft
+10:24.0	 	 	55-51	 	Offensive rebound by R. Gobert
+10:24.0	 	 	55-53	+2	R. Gobert makes 2-pt layup from 2 ft
+10:07.0	K. Porziņģis misses 2-pt dunk from 2 ft	 	55-53	 	 
+10:06.0	 	 	55-53	 	Defensive rebound by R. Hood
+9:54.0	 	 	55-53	 	Turnover by R. Hood (back court)
+9:41.0	C. Lee misses 2-pt jump shot from 11 ft	 	55-53	 	 
+9:41.0	 	 	55-53	 	Defensive rebound by R. Hood
+9:22.0	 	 	55-53	 	G. Hayward misses 3-pt jump shot from 24 ft
+9:22.0	Defensive rebound by C. Anthony	 	55-53	 	 
+9:02.0	D. Rose makes 2-pt jump shot from 12 ft	+2	57-53	 	 
+8:55.0	 	 	57-53	 	Utah full timeout
+8:55.0	 	 	57-53	 	A. Burks enters the game for R. Hood
+8:55.0	 	 	57-53	 	J. Johnson enters the game for B. Diaw
+8:47.0	 	 	57-53	 	G. Hill misses 2-pt jump shot from 4 ft
+8:47.0	 	 	57-53	 	Offensive rebound by R. Gobert
+8:33.0	 	 	57-55	+2	G. Hill makes 2-pt jump shot from 13 ft
+8:15.0	K. Porziņģis makes 2-pt dunk from 2 ft (assist by D. Rose)	+2	59-55	 	 
+8:04.0	 	 	59-55	 	A. Burks misses 3-pt jump shot from 25 ft
+8:03.0	Defensive rebound by K. Porziņģis	 	59-55	 	 
+7:47.0	K. Porziņģis makes 2-pt dunk at rim	+2	61-55	 	 
+7:29.0	 	 	61-55	 	Personal foul by C. Anthony (drawn by A. Burks)
+7:20.0	 	 	61-55	 	G. Hayward misses 2-pt jump shot from 9 ft (block by K. Porziņģis)
+7:17.0	 	 	61-55	 	Offensive rebound by R. Gobert
+7:16.0	 	 	61-57	+2	R. Gobert makes 2-pt dunk at rim
+7:01.0	K. Porziņģis misses 3-pt jump shot from 24 ft	 	61-57	 	 
+7:01.0	 	 	61-57	 	Defensive rebound by A. Burks
+6:45.0	 	 	61-59	+2	J. Johnson makes 2-pt jump shot from 17 ft
+6:27.0	C. Anthony makes 2-pt jump shot from 19 ft	+2	63-59	 	 
+6:12.0	 	 	63-59	 	A. Burks misses 3-pt jump shot from 25 ft
+6:11.0	 	 	63-59	 	Offensive rebound by R. Gobert
+6:11.0	 	 	63-59	 	Shooting foul by K. Porziņģis (drawn by R. Gobert)
+6:11.0	 	 	63-60	+1	R. Gobert makes free throw 1 of 2
+6:11.0	R. Baker enters the game for L. Thomas	 	63-60	 	 
+6:11.0	W. Hernangómez enters the game for K. Porziņģis	 	63-60	 	 
+6:11.0	 	 	63-60	 	R. Neto enters the game for G. Hill
+6:11.0	 	 	63-61	+1	R. Gobert makes free throw 2 of 2
+5:53.0	Turnover by W. Hernangómez (bad pass)	 	63-61	 	 
+5:37.0	 	 	63-61	 	J. Johnson misses 3-pt jump shot from 25 ft
+5:36.0	Defensive rebound by Team	 	63-61	 	 
+5:21.0	D. Rose misses 2-pt jump shot from 6 ft	 	63-61	 	 
+5:20.0	 	 	63-61	 	Defensive rebound by G. Hayward
+4:55.0	 	 	63-61	 	J. Johnson misses 2-pt jump shot from 8 ft
+4:54.0	 	 	63-61	 	Offensive rebound by J. Johnson
+4:51.0	 	 	63-63	+2	J. Johnson makes 2-pt layup from 2 ft
+4:36.0	C. Anthony misses 2-pt jump shot from 13 ft (block by J. Johnson)	 	63-63	 	 
+4:32.0	Offensive rebound by C. Anthony	 	63-63	 	 
+4:28.0	D. Rose misses 2-pt jump shot from 10 ft	 	63-63	 	 
+4:28.0	 	 	63-63	 	Defensive rebound by Team
+4:28.0	 	 	63-63	 	Personal foul by W. Hernangómez (drawn by R. Gobert)
+4:17.0	 	 	63-65	+2	R. Neto makes 2-pt layup from 2 ft
+3:52.0	C. Anthony makes 3-pt jump shot from 25 ft	+3	66-65	 	 
+3:32.0	 	 	66-67	+2	R. Gobert makes 2-pt dunk at rim (assist by J. Johnson)
+3:10.0	Shooting foul by R. Neto (drawn by W. Hernangómez)	 	66-67	 	 
+3:10.0	W. Hernangómez makes free throw 1 of 2	+1	67-67	 	 
+3:10.0	W. Hernangómez misses free throw 2 of 2	 	67-67	 	 
+3:10.0	 	 	67-67	 	J. Ingles enters the game for G. Hayward
+3:09.0	 	 	67-67	 	Defensive rebound by J. Johnson
+2:50.0	 	 	67-69	+2	J. Johnson makes 2-pt layup from 2 ft
+2:28.0	C. Anthony misses 2-pt jump shot from 22 ft	 	67-69	 	 
+2:28.0	 	 	67-69	 	Defensive rebound by J. Johnson
+2:13.0	 	 	67-72	+3	R. Neto makes 3-pt jump shot from 24 ft
+2:13.0	New York full timeout	 	67-72	 	 
+2:13.0	J. Holiday enters the game for C. Lee	 	67-72	 	 
+2:13.0	 	 	67-72	 	G. Hill enters the game for A. Burks
+2:13.0	 	 	67-72	 	J. Withey enters the game for R. Gobert
+1:54.0	W. Hernangómez makes 2-pt layup from 2 ft	+2	69-72	 	 
+1:39.0	 	 	69-72	 	Turnover by G. Hill (bad pass; steal by W. Hernangómez)
+1:32.0	D. Rose makes 2-pt layup from 2 ft	+2	71-72	 	 
+1:32.0	Shooting foul by J. Withey (drawn by D. Rose)	 	71-72	 	 
+1:32.0	 	 	71-72	 	A. Burks enters the game for R. Neto
+1:32.0	D. Rose makes free throw 1 of 1	+1	72-72	 	 
+1:12.0	 	 	72-72	 	J. Johnson misses 2-pt jump shot from 16 ft
+1:12.0	Defensive rebound by Team	 	72-72	 	 
+0:52.0	D. Rose misses 2-pt jump shot from 14 ft	 	72-72	 	 
+0:52.0	 	 	72-72	 	Defensive rebound by G. Hill
+0:41.0	 	 	72-72	 	G. Hill misses 3-pt jump shot from 25 ft
+0:41.0	Defensive rebound by Team	 	72-72	 	 
+0:37.0	C. Randle enters the game for D. Rose	 	72-72	 	 
+0:21.0	J. Holiday makes 3-pt jump shot from 26 ft (assist by C. Randle)	+3	75-72	 	 
+0:08.0	 	 	75-72	 	Personal foul by R. Baker (drawn by G. Hill)
+0:00.0	 	 	75-72	 	J. Ingles misses 3-pt jump shot from 25 ft
+0:00.0	Defensive rebound by W. Hernangómez	 	75-72	 	 
+0:00.0	End of 3rd quarter
+4th Q
+Time	New York		Score		Utah
+12:00.0	Start of 4th quarter
+11:38.0	 	 	75-72	 	G. Hill misses 2-pt layup from 2 ft
+11:35.0	 	 	75-72	 	Offensive rebound by J. Withey
+11:35.0	 	 	75-72	 	J. Withey misses 2-pt layup from 2 ft
+11:34.0	 	 	75-72	 	Offensive rebound by J. Withey
+11:31.0	 	 	75-74	+2	J. Withey makes 2-pt layup from 2 ft
+11:13.0	W. Hernangómez misses 2-pt layup from 2 ft (block by J. Withey)	 	75-74	 	 
+11:11.0	 	 	75-74	 	Defensive rebound by G. Hayward
+11:07.0	 	 	75-74	 	Shooting foul by C. Randle (drawn by G. Hayward)
+11:07.0	 	 	75-74	 	G. Hayward misses free throw 1 of 2
+11:07.0	 	 	75-74	 	Offensive rebound by Team
+11:07.0	L. Thomas enters the game for C. Randle	 	75-74	 	 
+11:07.0	 	 	75-75	+1	G. Hayward makes free throw 2 of 2
+10:52.0	J. Holiday misses 3-pt jump shot from 25 ft	 	75-75	 	 
+10:51.0	Offensive rebound by K. Porziņģis	 	75-75	 	 
+10:41.0	W. Hernangómez misses 2-pt hook shot from 3 ft	 	75-75	 	 
+10:39.0	 	 	75-75	 	Defensive rebound by A. Burks
+10:30.0	 	 	75-75	 	A. Burks misses 3-pt jump shot from 24 ft
+10:29.0	Defensive rebound by L. Thomas	 	75-75	 	 
+10:16.0	K. Porziņģis misses 2-pt jump shot from 4 ft	 	75-75	 	 
+10:15.0	Offensive rebound by K. Porziņģis	 	75-75	 	 
+10:15.0	K. Porziņģis makes 2-pt layup from 3 ft	+2	77-75	 	 
+10:00.0	 	 	77-75	 	Personal foul by R. Baker (drawn by G. Hill)
+10:00.0	 	 	77-75	 	R. Neto enters the game for G. Hill
+10:00.0	 	 	77-75	 	R. Gobert enters the game for J. Withey
+9:51.0	 	 	77-77	+2	G. Hayward makes 2-pt layup from 2 ft
+9:35.0	R. Baker makes 3-pt jump shot from 25 ft (assist by W. Hernangómez)	+3	80-77	 	 
+9:21.0	 	 	80-77	 	Personal foul by L. Thomas (drawn by R. Neto)
+9:21.0	C. Lee enters the game for W. Hernangómez	 	80-77	 	 
+9:14.0	 	 	80-80	+3	G. Hayward makes 3-pt jump shot from 26 ft
+8:57.0	K. Porziņģis misses 2-pt jump shot from 16 ft	 	80-80	 	 
+8:56.0	 	 	80-80	 	Defensive rebound by A. Burks
+8:38.0	 	 	80-82	+2	R. Neto makes 2-pt jump shot from 20 ft
+8:22.0	C. Lee makes 2-pt jump shot from 13 ft	+2	82-82	 	 
+8:09.0	 	 	82-82	 	Shooting foul by C. Lee (drawn by J. Ingles)
+8:09.0	 	 	82-82	 	Utah full timeout
+8:09.0	 	 	82-82	 	J. Ingles misses free throw 1 of 2
+8:09.0	 	 	82-82	 	Offensive rebound by Team
+8:09.0	 	 	82-82	 	J. Ingles misses free throw 2 of 2
+8:09.0	 	 	82-82	 	J. Johnson enters the game for A. Burks
+8:08.0	Defensive rebound by L. Thomas	 	82-82	 	 
+7:43.0	K. Porziņģis misses 2-pt jump shot from 14 ft (block by R. Gobert)	 	82-82	 	 
+7:43.0	Offensive rebound by Team	 	82-82	 	 
+7:43.0	Turnover by Team (shot clock)	 	82-82	 	 
+7:22.0	 	 	82-82	 	J. Johnson misses 2-pt jump shot from 3 ft
+7:21.0	 	 	82-82	 	Offensive rebound by G. Hayward
+7:12.0	 	 	82-85	+3	J. Johnson makes 3-pt jump shot from 23 ft (assist by J. Ingles)
+6:54.0	C. Anthony enters the game for R. Baker	 	82-85	 	 
+6:54.0	D. Rose enters the game for J. Holiday	 	82-85	 	 
+6:54.0	 	 	82-85	 	A. Burks enters the game for J. Ingles
+6:54.0	 	 	82-85	 	G. Hill enters the game for R. Neto
+6:50.0	K. Porziņģis makes 3-pt jump shot from 25 ft (assist by C. Anthony)	+3	85-85	 	 
+6:32.0	 	 	85-85	 	Personal foul by L. Thomas (drawn by R. Gobert)
+6:32.0	 	 	85-86	+1	R. Gobert makes free throw 1 of 2
+6:32.0	 	 	85-87	+1	R. Gobert makes free throw 2 of 2
+6:13.0	K. Porziņģis makes 2-pt jump shot from 10 ft	+2	87-87	 	 
+5:59.0	 	 	87-89	+2	G. Hayward makes 2-pt jump shot from 15 ft (assist by G. Hill)
+5:39.0	K. Porziņģis misses 3-pt jump shot from 25 ft	 	87-89	 	 
+5:38.0	 	 	87-89	 	Defensive rebound by J. Johnson
+5:23.0	 	 	87-89	 	J. Johnson misses 2-pt jump shot from 3 ft
+5:23.0	 	 	87-89	 	Offensive rebound by R. Gobert
+5:23.0	 	 	87-89	 	Shooting foul by C. Anthony (drawn by R. Gobert)
+5:23.0	 	 	87-89	 	Utah full timeout
+5:23.0	 	 	87-90	+1	R. Gobert makes free throw 1 of 2
+5:23.0	 	 	87-91	+1	R. Gobert makes free throw 2 of 2
+5:02.0	Offensive foul by C. Anthony (drawn by G. Hill)	 	87-91	 	 
+5:02.0	Turnover by C. Anthony (offensive foul)	 	87-91	 	 
+4:48.0	 	 	87-93	+2	G. Hayward makes 2-pt layup from 2 ft
+4:34.0	Turnover by D. Rose (bad pass; steal by G. Hill)	 	87-93	 	 
+4:31.0	 	 	87-93	 	Shooting foul by K. Porziņģis (drawn by G. Hayward)
+4:31.0	 	 	87-94	+1	G. Hayward makes free throw 1 of 2
+4:31.0	 	 	87-94	 	G. Hayward misses free throw 2 of 2
+4:29.0	Defensive rebound by K. Porziņģis	 	87-94	 	 
+4:10.0	C. Anthony misses 3-pt jump shot from 25 ft	 	87-94	 	 
+4:10.0	 	 	87-94	 	Defensive rebound by G. Hill
+3:55.0	 	 	87-96	+2	R. Gobert makes 2-pt layup from 3 ft (assist by G. Hayward)
+3:55.0	 	 	87-96	 	Shooting foul by L. Thomas (drawn by R. Gobert)
+3:55.0	 	 	87-96	 	R. Gobert misses free throw 1 of 1
+3:55.0	J. Holiday enters the game for L. Thomas	 	87-96	 	 
+3:55.0	R. Baker enters the game for K. Porziņģis	 	87-96	 	 
+3:55.0	W. Hernangómez enters the game for D. Rose	 	87-96	 	 
+3:55.0	 	 	87-96	 	J. Ingles enters the game for A. Burks
+3:48.0	Defensive rebound by W. Hernangómez	 	87-96	 	 
+3:30.0	C. Lee misses 3-pt jump shot from 34 ft	 	87-96	 	 
+3:29.0	 	 	87-96	 	Defensive rebound by J. Ingles
+3:11.0	 	 	87-98	+2	G. Hill makes 2-pt layup from 3 ft
+2:50.0	W. Hernangómez makes 2-pt jump shot from 3 ft (assist by R. Baker)	+2	89-98	 	 
+2:24.0	 	 	89-98	 	G. Hill misses 2-pt jump shot from 5 ft
+2:24.0	Defensive rebound by W. Hernangómez	 	89-98	 	 
+2:17.0	C. Lee makes 3-pt jump shot from 24 ft (assist by R. Baker)	+3	92-98	 	 
+1:52.0	 	 	92-98	 	G. Hayward misses 2-pt jump shot from 3 ft
+1:52.0	 	 	92-98	 	Offensive rebound by R. Gobert
+1:52.0	 	 	92-100	+2	R. Gobert makes 2-pt layup from 2 ft
+1:52.0	Turnover by R. Baker (bad pass)	 	92-100	 	 
+1:37.0	New York full timeout	 	92-100	 	 
+1:37.0	K. Porziņģis enters the game for W. Hernangómez	 	92-100	 	 
+1:37.0	 	 	92-102	+2	G. Hill makes 2-pt layup from 2 ft
+1:08.0	Shooting foul by G. Hill (drawn by R. Baker)	 	92-102	 	 
+1:08.0	R. Baker makes free throw 1 of 2	+1	93-102	 	 
+1:08.0	R. Baker makes free throw 2 of 2	+1	94-102	 	 
+0:45.0	 	 	94-102	 	G. Hill misses 2-pt jump shot from 4 ft
+0:45.0	 	 	94-102	 	Offensive rebound by R. Gobert
+0:45.0	 	 	94-102	 	Shooting foul by C. Lee (drawn by R. Gobert)
+0:45.0	 	 	94-103	+1	R. Gobert makes free throw 1 of 2
+0:45.0	 	 	94-104	+1	R. Gobert makes free throw 2 of 2
+0:45.0	New York full timeout	 	94-104	 	 
+0:43.0	K. Porziņģis makes 2-pt dunk at rim (assist by C. Anthony)	+2	96-104	 	 
+0:42.0	 	 	96-104	 	Utah full timeout
+0:42.0	M. Kuzminskas enters the game for C. Anthony	 	96-104	 	 
+0:41.0	 	 	96-104	 	Personal foul by J. Holiday (drawn by G. Hayward)
+0:41.0	 	 	96-105	+1	G. Hayward makes free throw 1 of 2
+0:41.0	 	 	96-106	+1	G. Hayward makes free throw 2 of 2
+0:33.0	R. Baker makes 2-pt layup from 3 ft	+2	98-106	 	 
+0:32.0	 	 	98-106	 	Personal foul by C. Lee (drawn by J. Johnson)
+0:32.0	 	 	98-106	 	J. Johnson misses free throw 1 of 2
+0:32.0	 	 	98-106	 	Offensive rebound by Team
+0:32.0	 	 	98-107	+1	J. Johnson makes free throw 2 of 2
+0:23.0	J. Holiday makes 3-pt jump shot from 25 ft (assist by C. Lee)	+3	101-107	 	 
+0:23.0	 	 	101-107	 	Personal foul by C. Lee (drawn by G. Hayward)
+0:23.0	 	 	101-107	 	G. Hayward misses free throw 1 of 2
+0:23.0	 	 	101-107	 	Offensive rebound by Team
+0:23.0	 	 	101-108	+1	G. Hayward makes free throw 2 of 2
+0:14.0	J. Holiday misses 3-pt jump shot from 25 ft	 	101-108	 	 
+0:13.0	 	 	101-108	 	Defensive rebound by G. Hayward
+0:00.0	End of 4th quarter
+

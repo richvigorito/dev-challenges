@@ -1,6 +1,6 @@
 # ⚛️ Pub/Sub UI – React Frontend
 
-This is an optional React UI to go along with the pub/sub backend from Dev Challenge 003.
+This is an optional React UI to go along with the pub/sub backend from Dev Challenge 001.
 
 You can:
 

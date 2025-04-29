@@ -1,6 +1,6 @@
 # 🐍 Pub/Sub System – Python (FastAPI + WebSocket)
 
-This is a sample solution to Dev Challenge 003: a simple async pub/sub system written in Python with FastAPI.
+This is a sample solution to Dev Challenge 001: a simple async pub/sub system written in Python with FastAPI.
 
 It features:
 

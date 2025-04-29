@@ -15,6 +15,8 @@ calculate_seconds() {
 
     minutes=$(echo "$time_str" | cut -d: -f1)
     seconds=$(echo "$time_str" | cut -d: -f2 | cut -d. -f1)
+    seconds=$((10#$seconds))
+
     remaining_seconds=$((minutes * 60 + seconds))
 
     # Calculate seconds since tip-off based on the quarter
@@ -43,7 +45,7 @@ while IFS= read -r line; do
         time_minutes=$(echo "$time_str" | cut -d: -f1)
 
 
-        echo "$line"
+        echo "line: $line"
         echo " -- quarter: $quarter"
         echo " -- last_minute: $last_minute"
         echo " -- time_minutes: $time_minutes"

@@ -42,8 +42,8 @@ def handle_workplace(msg):
     print(f"Can you believe it: {msg}")
 
 pubsub.subscribe("breakups", handle_relationships)
-pubsub.subscribe("workplace", handle_sports)
-pubsub.subscribe("cheats", handle_sports)
+pubsub.subscribe("workplace", handle_workplace)
+pubsub.subscribe("cheats", handle_relationships)
 
 pubsub.publish("cheats", "J is cheating on Will.")
 pubsub.publish("workplace", "I think we have to do server maintenance on sunday.")

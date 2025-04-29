@@ -14,28 +14,39 @@ You'll learn about **data transformation**, **dynamic rendering**, and **creativ
 ---
 ### 📋 Requirements & Specifications:
 
-- ⏱ Map each **game minute** to **one real second** (48 total seconds for a 48-minute NBA game)
+- Create a **visualization** of the provided basketball scoring events.
+- You may **render and animate** the visualization however you see fit.
+- ⏱ **Game Time Mapping**:  
+  - Map each **game minute** to **one real second**.  
+  - (A 48-minute NBA game should be visualized over **48 real seconds**.)
 - 📈 At each second:
-  - Update and render the **cumulative** points scored up to that game minute
-- 📉 Plot Wilt's points over time
-  - X-axis: Game time (0–48 seconds)
-  - Y-axis: Total points scored
-- 🎥 Animate the visualization **live**: points should increase visibly over 48 real seconds
-- 📜 Data provided:
-  - **Wilt's hypothetical second-by-second** CSV
-  - **Dame's real per-second breakdown** JSON (with 2PT, 3PT, and FT scores)
+  - Update and render the **cumulative points** scored up to that moment.
+- 📉 Plotting Suggestion (optional but encouraged):
+  - **X-axis**: Game time (0–48 seconds).
+  - **Y-axis**: Total cumulative points.
+- 🎥 Animate the visualization **live**:
+  - Points should **visibly increase** over the course of 48 real seconds.
+- 📜 Provided Data:
+  - Wilt's scoring data (`wilt.json`).
+  - Dame's scoring data (`dame.json`).
 
 ---
 
+### 🎨 Examples:
+
+- 📊 A real-time updating **graph** of points scored over time.
+- 🎬 A **terminal animation** showing points ticking up.
+- 🖼 A **static chart** displaying cumulative points at the end.
+- 🎥 A **video recording** of your animation (optional).
+
 ## 🎯 Bonus Ideas
 
-- 🌟 Add glowing dots or icons when a big play happens (like a 3-pointer)
-- 🌟 Show both players points on the same graph
--- as a comparason add the best game of the most average player in the game Rudy Gobert's 35 point game 2017-03-22
-- 📺 Show live score labels next to each player's marker ("Wilt: 62 points", "Dame: 41 points")
-- 🚀 Smooth interpolate points for continuous movement instead of stepwise jumps
-- 📊 Create a mini-dashboard showing scoring pace (points/minute)
-
+- 🌟 Add glowing dots or icons when a **big play** happens (like a 3-pointer).
+- 🌟 Show both players' points on the same graph.
+  - As a comparison, add the best game of the most average player in the game: Rudy Gobert's 35-point game (2017-03-22).
+- 📺 Show live score labels next to each player's marker ("Wilt: 62 points", "Dame: 41 points").
+- 🚀 Smoothly interpolate points for continuous movement instead of stepwise jumps.
+- 📊 Create a mini-dashboard showing scoring pace (points per minute).
 ---
 
 ### 🔧 Example Visualization
@@ -55,11 +66,8 @@ Imagine:
 ---
 
 ## 🛠 Solutions Available:
-| Language | Repo/Link |
-|:---------|:----------|
-| ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) | [solutions/python](solutions/python) |
-| ![React Frontend](https://img.shields.io/badge/React-18-blue?logo=react) | [solutions/react_frontend](solutions/react_frontend) |
-| ![P5.js Animation](https://img.shields.io/badge/p5.js-1.4.0-red?logo=javascript) | [solutions/p5js](solutions/p5js) |
+[![Python](https://img.shields.io/badge/C-99-blue?logo=c)](solutions/python/matplotlib_ex)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](solutions/bash)
 
 ---
 # 🏁 Good Luck & 🔥🔥🔥RIP CITY BABY!!!🔥🔥🔥
