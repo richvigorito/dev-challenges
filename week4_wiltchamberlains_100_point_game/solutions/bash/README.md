@@ -41,6 +41,7 @@ Wilt: 30   Dame: 20   Other: 0
 ## 🎥 Simulation Video
 You can watch the live simulation of the scoring events below:
 ![Watch the simulation](simulation.gif)
+
 ... mind blowing right? haha 
 
 ---
