@@ -59,6 +59,6 @@ Can you believe it?!: K and K are no more.
 
 ---
 ## 🛠 Solutions Available:
-[![Go cmd line](https://img.shields.io/badge/Go-1.21-blue?logo=go)](solutions/python)
-[![Python Broker/API](https://img.shields.io/badge/Python-3.11-blue?logo=python)](solutions/python)
+[![Go cmd line (tcp)](https://img.shields.io/badge/Go-1.21-blue?logo=go)](solutions/go)
+[![Python Broker/API (websockets)](https://img.shields.io/badge/Python-3.11-blue?logo=python)](solutions/python)
 [![React UI](https://img.shields.io/badge/React-17-blue?logo=react)](solutions/react_frontend)
