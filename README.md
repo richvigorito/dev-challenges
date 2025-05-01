@@ -14,15 +14,15 @@ The challenges will be released weekly and come in different formats: head-to-he
 - [Week 1 - Gossip Spreads](./week1_gossip_spreads)
 - [Week 2 - Join The Conga Line](./week2_the_conga_line)  
 - [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
-- [Week 4 - Wilt Chamberlain's 100_Point Game](./week4_wiltchamberlains_100_point_game)  
+- [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)  
 
 #### 🔜 Upcoming Challenges
-- Week 6 - Be A Solid Friend
-- Week 7 - Pancakes at the Coffeeshop
-- Week 8 - A Variables Says What?
-- Week 9 - Whats the Secret Handshake
-- Week 10 - One digit at a time, no judgment!
-- Week 11 - resrever gnirts
+- Week 6 - Stay Solid Friends
+- Week 7 - The Greatest Programming Book Ever Written
+- Week 8 - Pancakes at the Coffeeshop
+- Week 9 - A Variables Says What?
+- Week 10- Whats the Secret Handshake
+- Week 11 - One digit at a time, no judgment!
   ...and more to come!
 
 ---
