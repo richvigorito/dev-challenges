@@ -69,7 +69,7 @@ These challenges are designed to be approachable yet thought-provoking. Sometime
 ---
 ## 🛠 Solutions
 For each challenge, I will provide at least **one solution** (sometimes multiple solutions) for you to review and learn from. Feel free to experiment with your own approaches!
-⚠️ **Disclaimer**: Some solutions, which will be limited to frontend solution code, may have been generated with the help of AI tools like ChatGPT. Always feel free to improve or experiment with your own code!
+⚠️ **Disclaimer**: Most the challenges I personally do as well. 1) I enjoy them and 2) find these small games good practice for languages im improving on. Some solutions, which will be limited to frontend solution code, may have been generated with the help of AI tools like ChatGPT; if they are they will be noted.  Always feel free to improve or experiment with your own code!
 
 ---
 ## 📢 Want to Contribute?
