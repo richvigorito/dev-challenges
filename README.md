@@ -6,7 +6,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 4 -  Wilt Chamberlain's 100_Point Game](./week4_wiltchamberlains_100_point_game)**
+**[Week 5 -  Swapping Aint Easy](./week5_swappin_aint_easy)**
 
 ### 🗂 All Challenges
 
@@ -15,14 +15,15 @@ The challenges will be released weekly and come in different formats: head-to-he
 - [Week 2 - Join The Conga Line](./week2_the_conga_line)  
 - [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
 - [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)  
+- [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)  
 
 #### 🔜 Upcoming Challenges
-- Week 5 - Stay Solid Friends
-- Week 6 - The Greatest Programming Book Ever Written
-- Week 7 - Pancakes at the Coffeeshop
-- Week 8 - A Variables Says What?
-- Week 9- Whats the Secret Handshake
-- Week 10 - One digit at a time, no judgment!
+- Stay Solid Friends
+- The Greatest Programming Book Ever Written
+- Pancakes at the Coffeeshop
+- A Variables Says What?
+- Whats the Secret Handshake
+- One digit at a time, no judgment!
   ... and more to come!
 
 ---
