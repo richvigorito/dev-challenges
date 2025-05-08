@@ -36,11 +36,12 @@ Pick a time, like **10 or 20 minutes** to write as many **working** swap impleme
 ---
 
 ## 🛠 Solutions Available:
-In the solutions directory you'll find an array of different languages for your enjoyment
+In the solutions directory you'll find an array of different languages for your enjoyment 
+I recommend starting before challenge, this takes about 5 mins to build due to all the supported languages. 
 ```bash
 $> docker build -t swapbox .
 $> docker run -it --rm -v $(pwd):/workspace swapbox
-$> ./run_all.sh
+$> bash run_all.sh
 ```
 > Disclaimer: most challenges i try to do on my own for fun, gauge if its gonna take too long for a team or race format
 >             and get some practice in languages i done normally program in. This one i wanted to have show a wide a array 

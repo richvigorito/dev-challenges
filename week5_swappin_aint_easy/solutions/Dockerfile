@@ -30,7 +30,7 @@ RUN apt-get update && apt-get install -y \
     libncurses-dev \
     pkg-config \
     zlib1g-dev \
-    gfortran \  # Added gfortran for Fortran compiler
+    gfortran \  
     && apt-get clean
 
 # Install Swift manually
