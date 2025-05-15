@@ -6,7 +6,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 5 -  Swapping Aint Easy](./week5_swappin_aint_easy)**
+**[Week 6 -  Stay Solid Friends](./week6_stay_solid_friends)**
 
 ### 🗂 All Challenges
 
@@ -16,10 +16,11 @@ The challenges will be released weekly and come in different formats: head-to-he
 - [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
 - [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)  
 - [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)  
+- [Week 6 - Stay Solid Friends](./week6_stay_solid_friends)
 
 #### 🔜 Upcoming Challenges
-- Stay Solid Friends
 - The Greatest Programming Book Ever Written
+- Break out the Red Solos: FlipCup
 - Pancakes at the Coffeeshop
 - A Variables Says What?
 - Whats the Secret Handshake
