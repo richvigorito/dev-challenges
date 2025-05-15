@@ -3,12 +3,12 @@
 ## 📝 Challenge Overview
 Become **software architects** by fixing broken code samples across multiple languages using the **SOLID principles**!
 
-You'll be given messy, badly-designed examples in Python, Go, Ruby, PHP, and C++. Your task is to **refactor them as a group** to follow the famous SOLID design guidelines. You'll learn how to spot design flaws quickly and practice clean, maintainable coding techniques that scale.
+You'll be given messy, badly-designed examples in Python, Go, Ruby, PHP, and C++. After last weeks head-to-head compition, we're gonna work together and **refactor them as a group** to follow the famous SOLID design guidelines. You'll learn how to spot design flaws quickly and practice clean, maintainable coding techniques that scale.
 
 ---
 
 ## 🏁 Challenge Format:
-**Head-to-Head** 🏁🔥 and given 20-30 mins how far can each person gets. And most importantly for this challenge, then share your designs. 
+**Collaborative** 🤝💻 Work as a team to clean up the legacy of that ex-employee whose code somehow became the scapegoat for all our mess. Take as long as you need though the aim was could complete in 5-10 mins per file. 
 
 ---
 
