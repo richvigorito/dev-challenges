@@ -1,4 +1,4 @@
-# 🏆 Week [6] - Stay SOLID Friends
+# 🏆 Week [6] - Stay SOLID Friends .. or is it: Stay SOLID, Friends. ?
 
 ## 📝 Challenge Overview
 Become **software architects** by fixing broken code samples across multiple languages using the **SOLID principles**!
