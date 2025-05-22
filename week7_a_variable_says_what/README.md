@@ -1,4 +1,5 @@
 # 🧠 Week [7] - Variable Variables Brain Meltdown Challenge
+
 ## 📝 Challenge Overview
 This week’s challenge: try not to lose your mind with PHP’s variable variables feature.
 
@@ -34,4 +35,5 @@ php var_vars.php
 
 🎯 Bonus Ideas
 - Try building your own "variable variable" puzzles to trick others.
+- Discuss how would you accomplish this in other languages?
 - Discuss use cases for variable variables
