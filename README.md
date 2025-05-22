@@ -6,23 +6,22 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 6 -  Stay Solid Friends](./week6_stay_solid_friends)**
+**[Week 7 -  A Variable Says What?](./week7_a_variable_says_what)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
-- [Week 1 - Gossip Spreads](./week1_gossip_spreads)
-- [Week 2 - Join The Conga Line](./week2_the_conga_line)  
-- [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
-- [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)  
-- [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)  
 - [Week 6 - Stay Solid Friends](./week6_stay_solid_friends)
+- [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)  
+- [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)  
+- [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
+- [Week 2 - Join The Conga Line](./week2_the_conga_line)  
+- [Week 1 - Gossip Spreads](./week1_gossip_spreads)
 
 #### 🔜 Upcoming Challenges
 - The Greatest Programming Book Ever Written
 - Break out the Red Solos: FlipCup
 - Pancakes at the Coffeeshop
-- A Variables Says What?
 - Whats the Secret Handshake
 - One digit at a time, no judgment!
   ... and more to come!
