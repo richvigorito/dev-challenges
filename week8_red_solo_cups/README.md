@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Week [8] – Flipcup: Trivia Meets Team Spirit
 
 ## 📝 Challenge Overview  
