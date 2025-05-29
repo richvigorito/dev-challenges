@@ -3,7 +3,7 @@
 ## 📝 Challenge Overview  
 This week’s challenge dials it way down on brain-bending syntax... and turns the **team pressure way up**.  
 
-You’ll be playing a game inspired by flip cup, but instead of chugging drinks, you’re racing to answer trivia questions. It’s fast-paced, loud, chaotic, and **way more fun with a team**.  
+You’ll be playing a game inspired by flip cup, but instead of chugging drinks, you’re racing to answer trivia questions.
 
 You’ll need to think quickly, type quickly (no-typos), and—most importantly—**flip the damn cup**.
 
