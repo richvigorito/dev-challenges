@@ -1,5 +1,5 @@
 ````markdown
-# 🧠 Week [8] – Flip-Quiz: Trivia Meets Team Spirit
+# 🧠 Week [8] – Flipcup: Trivia Meets Team Spirit
 
 ## 📝 Challenge Overview  
 This week’s challenge dials it way down on brain-bending syntax... and turns the **team pressure way up**.  
