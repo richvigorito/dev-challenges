@@ -5,7 +5,7 @@ This week’s challenge dials it way down on brain-bending syntax... and turns t
 
 You’ll be playing a game inspired by flip cup, but instead of chugging drinks, you’re racing to answer trivia questions. It’s fast-paced, loud, chaotic, and **way more fun with a team**.  
 
-You’ll need to think quickly, communicate clearly, and—most importantly—**flip the damn cup**.
+You’ll need to think quickly, type quickly (no-typos), and—most importantly—**flip the damn cup**.
 
 ---
 
@@ -26,7 +26,7 @@ Gather your team, pick a quiz, and jump into a live game at:
 
 👉 [flipcup.fly.dev](https://flipcup.fly.dev)
 
-This is a multiplayer-only challenge—no solo play allowed. (Team-building is the whole point.)
+This is a multiplayer-game so no solo play. (Team-building is the whole point of this repo/project.)
 
 ---
 
