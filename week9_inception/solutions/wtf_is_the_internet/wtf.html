@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WTF is the Internet</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #e6e6e6;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      color: #00ffcc;
+      margin-bottom: 1rem;
+    }
+    button {
+      background-color: #00ffcc;
+      color: #0d0d0d;
+      border: none;
+      padding: 1rem 2rem;
+      margin: 1rem;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: 8px;
+    }
+    code {
+      display: block;
+      background: #1e1e1e;
+      color: #99ffcc;
+      padding: 1rem;
+      text-align: left;
+      white-space: pre;
+      overflow-x: auto;
+      margin: 1rem auto;
+      max-width: 800px;
+      border-radius: 8px;
+    }
+    iframe {
+      margin: 2rem auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>WTF is the Internet</h1>
+  <div id="player"></div>
+
+  <p>You're looking at an HTML file... but guess what? It’s also running <strong>JavaScript</strong>.</p>
+  <button onclick="explainJS()">How is JavaScript running here?</button>
+  <p id="explanation"></p>
+
+  <button onclick="document.getElementById('deeper').style.display='block'">Want to go deeper?</button>
+
+  <div id="deeper" style="display:none">
+    <p>This HTML file will now use JavaScript to call <strong>compiled C code</strong> running in your browser via WebAssembly 🤯</p>
+
+    <h3>⚙️ Run a local server first!</h3>
+    <p>Your browser blocks some file types like <code>.wasm</code> when run from <code>file://</code>. Run a local server:</p>
+
+    <code>python3 -m http.server 8080</code>
+
+    <p>Or using <code>http-server</code> via Node:</p>
+    <code>
+    npm install -g http-server
+    http-server -p 8080
+    </code>
+
+    <p>Then open: <code>http://localhost:8080/wtf.html</code></p>
+
+    <button onclick="runWasm()">Run C Function from WebAssembly</button>
+    <p id="wasm-output"></p>
+  </div>
+
+  <script>
+    function explainJS() {
+      document.getElementById('explanation').innerText =
+        'HTML loads JavaScript using <script> tags. That script gets interpreted and run by your browser.';
+    }
+
+    async function runWasm() {
+      const response = await fetch('c_add.wasm');
+      const buffer = await response.arrayBuffer();
+      const { instance } = await WebAssembly.instantiate(buffer);
+      const result = instance.exports.add(3, 4);
+      document.getElementById('wasm-output').innerText = `Result of C function add(3, 4): ${result}`;
+    }
+
+    // YouTube looping via iframe API
+    let player;
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player('player', {
+        height: '360',
+        width: '640',
+        videoId: 'GliRFHIyS0k',
+        playerVars: {
+          autoplay: 1,
+          controls: 1,
+          start: 0,
+          end: 9,
+          modestbranding: 1,
+          rel: 0
+        },
+        events: {
+          onReady: (event) => {
+            event.target.playVideo();
+          },
+          onStateChange: (event) => {
+            if (event.data === YT.PlayerState.ENDED) {
+              player.seekTo(0);
+              player.playVideo();
+            }
+          }
+        }
+      });
+    }
+  </script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>
