@@ -17,6 +17,7 @@ Put **20 minutes** on the clock. Write as many working programs as you can where
 - 💬 Print enough to show both the outer and inner program executed.
 - 🌍 Use any languages, but focus on the interop style rather than the language name.
 - ✍️ For each, add a quick comment explaining the **mechanism used**.
+- 💬 Share/discuss your work w/ the team and if/when you'd ever want to incorporate interoperable programs in your projects.
 
 ---
 
