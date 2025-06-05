@@ -29,7 +29,7 @@ Put **20 minutes** on the clock. Write as many working programs as you can where
 - 🕵️‍♀️ Log or capture the output of the inner program and use it in the outer
 
 ## 🌟🛠  Bonus Challenge
-Did you enjoy the movie or were you one of [the haters](https://funnyordie.com/2011/02/07/my-mom-reviews-inception/)? Well, piggybacking off [last week's challenge](../week8_red_solo_cups) i published an "Everything Inception" quiz, which is a mix of inception, Christopher Nolan, Leo, etc trivia. [Play it here!](flipcup.fly.dev).
+Did you enjoy the movie or were you one of [the haters](https://funnyordie.com/2011/02/07/my-mom-reviews-inception/)? Well, piggybacking off [last week's challenge](../week8_red_solo_cups) i published an "Everything Inception" quiz, which is a mix of inception, Christopher Nolan, Leo, etc trivia. [Play it here!](https://flipcup.fly.dev).
 
 ---
 
