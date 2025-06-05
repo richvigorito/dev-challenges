@@ -22,7 +22,7 @@ Put **20 minutes** on the clock. Write as many working programs as you can where
 
 ## 🎯 Bonus Ideas
 
-- 🧵 Chain multiple hops(code within code... dream within a dream, get it?): e.g., Go → Python → C -> Assembly
+- 🧵 Chain multiple hops(code within code... [dream within a dream](https://www.rottentomatoes.com/m/inception) get it?): e.g., Go → Python → C -> Assembly
 - 🧪 Try lesser-known interop (like embedding Lua, or using JNI)
 - 🔁 Try the same language combo with multiple strategies
 - 🕵️‍♀️ Log or capture the output of the inner program and use it in the outer
