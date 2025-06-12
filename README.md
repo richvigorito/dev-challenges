@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 9 - We Need To Go Deeper](./week9_inception)**
+**[Week 10 - XOR FTW](./xor_ftw)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 9 - We Need To Go Deeper](./week9_inception)**
 - [Week 8 -  Red Solo Cups](./week8_red_solo_cups)
 - [Week 7 -  A Variable Says What?](./week7_a_variable_says_what)
 - [Week 6 - Stay Solid Friends](./week6_stay_solid_friends)
