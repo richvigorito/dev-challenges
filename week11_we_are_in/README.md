@@ -26,17 +26,17 @@ Reverse-engineer and **crack the encrypted files** using the clues left behind b
 ```bash
 a1f4fcd  chore: initial commit - HTML looks good!
 b9d12de  feat: added basic security layer (chatgpt said XOR is fine)
-3e8c23a  fix: XOR encryption now works with ANY key not just 42 😎
+3e8c23a  fix: XOR encryption now works with ANY key not just ... the meaning of life 😎
 fa7d831  feat: added enc1.bin (pi-inspired encryption lol)
 58d21a7  feat: added enc2.bin (og xor ver, keeping it simple)
 de6b109  feat: added enc3.py (still counts as encrypted, right?)
 ed4d2fe  docs: added README with encryption vibe
 92cf899  test: decrypt script works locally, just gotta remember the key 🤔
 c7f19d3  style: renamed story.txt to enc1.bin because its *technically* encoded
-e4e2b3a  refactor: switched from literal pi to "pi-ish" XOR
+e4e2b3a  refactor: switched from literal pi to "pi-ish" encryption
 ab1fe67  fix: remembered THE actual the answer to EVERYTHING 🔐
 82cd7f8  feat: used ceasar shift on .py file because chatgpt said its OG crypto
-d48f02c  misc: added fanfic - too good to delete (hope they dont read it)
+d48f02c  misc: add my story - too good to delete (hope they dont read it)
 fb2a8d3  fix: changed encoding method mid-file... maybe a bad idea? 😅
 aa9cc88  docs: all secure now -- vibe lock complete 🔐✨
 ```
