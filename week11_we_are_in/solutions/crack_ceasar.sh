@@ -1,8 +1,5 @@
 #!/bin/bash
 #
-# Brute force Caesar cipher decryption script
-# Usage: ./run_ceasar.sh <file.txt>
-# Author: Rich Vigorito
 #
 # This script loops through all 25 possible shifts for a Caesar cipher, outputs the decrypted text for each shift, displays the results, prompts the user if the decrypted text is correct, and saves the correct shift to a file.
 #
@@ -42,10 +39,7 @@ function decrypt_caesar() {
     echo "$output"
 }
 
-# Read the input file
-# input_text=$(<"$input_file")
-#
-#
+
 input_text=$(cat "$input_file")
 # Loop through all 25 possible shifts
 for shift in {1..25}; do
