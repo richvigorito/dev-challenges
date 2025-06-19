@@ -62,11 +62,11 @@ Was the encryption secure? What assumptions did the coder make? What went wrong?
 ## 🕵️ In conclusion
 This challenge might feel a little too easy — the clues are practically waving at you. But reality check: even the simplest encryption gets botched out there.
 
-📉 Case in point: Many malware and shady apps use XOR to “encrypt” confidential data — like service names, configurations, or payloads — often with hardcoded keys. As SANS’ Didier Stevens points out, this pattern:
-- Uses a one-byte XOR key
-- Repeats it across the data
-- Doesn’t add any real entropy
-- so it looks like encryption, yet is nothing more than trivial obfuscation
+📉 Case in point: Many malware and shady apps use XOR to “encrypt” confidential data — like service names, configurations, or payloads — often with hardcoded keys. The typical problem/pattern:
+- One-byte XOR keys
+- Repeats across the data
+- No real entropy
+- Looks like encryption, but in reality is just obfuscation
 
 ### SEE
 [XOR and Malware](https://isc.sans.edu/diary/Malware%2Band%2BXOR%2BPart%2B1/22486), ["XOR" encryption](https://cybergibbons.com/security-2/why-xor-alone-is-an-incredibly-bad-encryption-technique) and the [percona bug](https://perconadev.atlassian.net/browse/PT-1703) I helped file. 
