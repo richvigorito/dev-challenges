@@ -46,16 +46,15 @@ aa9cc88  docs: all secure now -- vibe lock complete 🔐✨
 
 ## 🎯 Your Goal
 
-You’ve got 20–30 minutes.  
-Decrypt the files. Try to reconstruct the original plaintext.  
-Was the encryption secure? What assumptions did the coder make? What went wrong?
+As a team guess at what clues the vibe coder left behind and which encryption methods/keys he used.  
+Divide and conquer the decryption attempt tasks. Decrypt the files and try to reconstruct the original plaintext.  
 
 ---
 
-## 💬 Bonus Prompts
+## 💬 Discussion Points
 
 - What clues would help a real attacker?
-- Can you write a script that cracks it faster?
+- Could the script that cracks it be written faster?
 - What would you tell the intern who did this?
 
 --- 
