@@ -6,7 +6,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 11 - XOR FTW](./week11_we_are_in)**
+**[Week 11 - We're in!](./week11_we_are_in)**
 
 ### 🗂 All Challenges
 
