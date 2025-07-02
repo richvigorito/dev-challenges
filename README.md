@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 12 - Access Granted](./week12_access_granted)**
+**[Week 13 - The Greatest Programming Book Written. Ever.](./week13_greatest_programming_book_ever_written)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 12 - Access Granted](./week12_access_granted)
 - [Week 11 - We're in!](./week11_we_are_in)
 - [Week 10 - XOR FTW](./week10_xor_ftw) 
 - [Week 9 - We Need To Go Deeper](./week9_inception)
