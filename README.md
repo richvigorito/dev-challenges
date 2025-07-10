@@ -6,7 +6,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 14 - Now gimme my money ](./week14_now_gimmie_my_money)**
+**[Week 14 - Now gimme my money ](./week14_now_gimme_my_money)**
 
 ### 🗂 All Challenges
 
