@@ -13,7 +13,10 @@ Your job? Exorcise the directory until it’s empty.
 
 ## 🏁 Challenge Format:  
 **Head-to-Head Speed Round** ⚡🌐  
-Put **5 minutes** on the clock. Delete as many files as you can. 
+- Build container:  `docker build -t terminal_exorcism .`
+- Put **5 minutes** on the clock
+- Start by running  container:  `docker run -it terminal_exorcism`
+- Delete as many files as you can. 
 
 ## 🎯 Bonus Ideas
 - Discuss any challeges
