@@ -1,6 +1,6 @@
-# 💲 Week 15: Terminal Exorcist – Delete the Undeletables
+# 😈 Week 15: Terminal Exorcist – Delete the Undeletables
 
-## 🐳 Challenge Overview  
+## 💀 Challenge Overview  
 You’re dropped into a Docker container with a haunted ~/files/ directory. It's full of cursed files that:
 
 - Have invisible characters
