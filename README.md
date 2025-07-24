@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 14 - Now gimme my money ](./week14_now_gimme_my_money)**
+**[Week 15 - Terminal Exorcism ](./week15_terminal_exorcism)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 14 - Now gimme my money ](./week14_now_gimme_my_money)
 - [Week 13 - The Greatest Programming Book Written. Ever.](./week13_greatest_programming_book_ever_written)
 - [Week 12 - Access Granted](./week12_access_granted)
 - [Week 11 - We're in!](./week11_we_are_in)
@@ -19,10 +20,10 @@ The challenges will be released weekly and come in different formats: head-to-he
 - [Week 8 - Red Solo Cups](./week8_red_solo_cups)
 - [Week 7 - A Variable Says What?](./week7_a_variable_says_what)
 - [Week 6 - Stay Solid Friends](./week6_stay_solid_friends)
-- [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)  
-- [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)  
+- [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)
+- [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)
 - [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
-- [Week 2 - Join The Conga Line](./week2_the_conga_line)  
+- [Week 2 - Join The Conga Line](./week2_the_conga_line)
 - [Week 1 - Gossip Spreads](./week1_gossip_spreads)
 
 #### 🔜 Upcoming Challenges
