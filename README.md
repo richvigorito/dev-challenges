@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 15 - Terminal Exorcism ](./week15_terminal_exorcism)**
+**[Week 16 - Pen and Paper ](./week16_pen_and_paper)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 15 - Terminal Exorcism ](./week15_terminal_exorcism)
 - [Week 14 - Now gimme my money ](./week14_now_gimme_my_money)
 - [Week 13 - The Greatest Programming Book Written. Ever.](./week13_greatest_programming_book_ever_written)
 - [Week 12 - Access Granted](./week12_access_granted)
