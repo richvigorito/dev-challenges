@@ -11,7 +11,7 @@ This challenge is inspired from another interesting story about the training of 
 
 ## 🏁 Challenge Format  
 **Solo or Head-to-Head**   
-Given the following (leetcode problem)[https://leetcode.com/problems/reorder-list/description] (or can pick a different one obviously) set 20 minutes on the clock. Solving via pen an paper- no computers, no IDEs, no syntax highlighting, no auto-complete, no AI assistance, no nothing. Just you, a pen, and a piece of paper. After 15 minutes, reset the timer and type the solution into your computer or leetcode directly. First to solve wins.
+Given the following [leetcode problem](https://leetcode.com/problems/reorder-list/description) (or can pick a different one obviously) set 20 minutes on the clock. Solving via pen an paper- no computers, no IDEs, no syntax highlighting, no auto-complete, no AI assistance, no nothing. Just you, a pen, and a piece of paper. After 15 minutes, reset the timer and type the solution into your computer or leetcode directly. First to solve wins.
 
 
 ## 🤔 But Seriously, Why?
