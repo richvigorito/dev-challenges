@@ -4,6 +4,12 @@ Welcome to **Dev Challenges**, a collection of weekly coding challenges designed
 
 The challenges will be released weekly and come in different formats: head-to-head races, question/answer games, and collaborative problem-solving challenges. These are not long, drawn-out projects — they're quick, dirty, and hopefully enjoyable while still being a little thought-provoking. My hope people subscribe and can be a fun team building exercise (and allows me to do little mini programs in languages I dont get to program everyday). 
 
+## 🆕 Latest Challenge
+
+**[Week 16 - Pen and Paper ](./week16_pen_and_paper)**
+
+### 🗂 All Challenges
+
 #### ✅ Completed Challenges
 - [Week 15 - Terminal Exorcism ](./week15_terminal_exorcism)
 - [Week 14 - Now gimme my money ](./week14_now_gimme_my_money)
