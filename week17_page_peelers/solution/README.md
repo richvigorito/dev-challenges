@@ -27,7 +27,7 @@ END FOR
 ### **What Went Well**
 - I thought it would be faster writing images to a file then via bash read each line downloading the file via curl. Part way through the bash script the interviewer notified me the solution needed to be the same programming language.
 - After that little detour I had a working solution by the ~30 minute mark.
-- The language was not one I’m as comfortable with (compared to PHP), but I got past syntax hurdles quickly.
+- The language was not one I’m as comfortable with (compared to PHP), slowed me down a little but not too bad.
 - I knew each page had 16 images, and my naming convention was `image-$pageNum-$imageNum.jpg`.
 - The script downloaded all images from the first 10 pages and the counts matched expectations.
 
@@ -36,7 +36,7 @@ While reviewing the results, I noticed something odd:
 - The **last image downloaded from page 10** did not match the **last image shown in my browser** for that page.
 - Counts still matched, but the final image differed.
 
-When I tested with fewer pages (1–2 or 1–5), results were correct. The mismatch only occurred when scraping all 10 pages. I frantically was comparing the dom as if for some might of been special with page 1 and 10. Ultimately I couldn’t figure out the cause in the remaining 10 minutes as I was frantically comparing doms page to page as if somehow page ten was different. At the 40 minute mark the interviewer ended the exercise. The next day, I was told they would not be moving forward.
+When I tested with fewer pages (1–2 or 1–5), results were correct. The mismatch only occurred when scraping all 10 pages. I frantically was comparing the dom as if for some bizarre reason there might of been something special about page 10. Ultimately I couldn’t figure out the cause in the remaining 10 minutes as I was frantically comparing doms page to page as if somehow page ten was different. At the 40 minute mark the interviewer ended the exercise. The next day, I was told they would not be moving forward.
 
 ## **Post-Interview Debugging**
 
@@ -106,3 +106,5 @@ Did I have a correct, working solution? Yes.
 Should it have counted? man I would think so but I can see both sides.
 
 It’s possible the interviewer didn’t notice the site update either, or the exercise was intended to see if I could handle changes and duplicates. The likelihood of this exact situation happening during an interview is extremely low but also these guys do a lot of this work so it's possible they were looking for more robust solutions even if did refresh the page and submitting the working solution. 
+
+Lastly, talking out what you're doing, as distracting as that can be probably would of went a long way in this instance. I was so stressed trying to find the difference that if I paused and said "that's so weird, wonder why this last image is different" he may of recognized that this has happened and other interviews and kindly suggested 'hey refresh the browser tab.'
