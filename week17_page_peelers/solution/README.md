@@ -1,6 +1,6 @@
 # 📚 Interview Question
 
-As mentioned in [README](../README.md), this challenge was inspired by a real interview question I recently had. Out of respect for the company, I will not share the exact question, the site used, or the language required. The site here is different, some aspects of the scraping are different, and the implementation language is different. However, I’ll share the general idea, my approach, why my solution was rejected, and what I learned.
+As mentioned in [README](../README.md), this challenge was inspired by a real interview question I recently had. Out of respect for the company, I will not share the exact question, the site used, or the language required. The site here is different and some aspects of the scraping were more difficult. However, I’ll share the general idea, my approach, why my solution was rejected, and what I learned.
 
 
 ## **Interview Task** 
