@@ -36,7 +36,7 @@ While reviewing the results, I noticed something odd:
 - The **last image downloaded from page 10** did not match the **last image shown in my browser** for that page.
 - Counts still matched, but the final image differed.
 
-When I tested with fewer pages (1–2 or 1–5), results were correct. The mismatch only occurred when scraping all 10 pages. I frantically was comparing the dom as if for some bizarre reason there might of been something special about page 10. Ultimately I couldn’t figure out the cause in the remaining 10 minutes and at the 40 minute mark the interviewer ended the exercise. The next day, I was told they would not be moving forward with my candidacy.
+When I tested with fewer pages (1–2 or 1–5), results were correct. The mismatch only occurred when scraping all 10 pages. I frantically was comparing the dom as if for some bizarre reason there might of been something special about page 10. Ultimately I couldn’t figure out the cause in the remaining 10 minutes and at the 40 minute mark the interviewer ended the exercise. The next day I was told they would not be moving forward with my candidacy.
 
 ## **Post-Interview Debugging**
 
