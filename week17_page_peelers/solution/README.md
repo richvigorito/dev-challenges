@@ -78,7 +78,7 @@ Had I refreshed the browser tab for page 10 during the interview, I would have s
 - **During the interview:** Obviously refreshing the browser to verify discrepancies in real time would of basically ended the exercise on time 🤦
 - **In code:** Make the scraper more robust against mid-run changes by:
     - Gathering all image URLs and hashing page HTML **before** any downloads.
-    - Downloading asynchronously to minimize time between page fetches.
+    - Downloading asynchronously to minimize execution time.
     - Re-hashing pages after downloads and comparing to detect changes.
     - Checking for duplicate image URLs across pages.
       
