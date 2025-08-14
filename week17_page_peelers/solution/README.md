@@ -72,10 +72,10 @@ When I tested with fewer pages (1–2 or 1–5), results were correct. The misma
 **Conclusion:**  
 It appears the site was updated *while my script was running*. By the time my scraper moved from page 8 to page 9, the missing image had been inserted, altering the content and order.
 
-Had I refreshed the browser tab for page 10 during the interview, I would have seen that the on-page content had changed, matching my downloaded results. That likely would have clarified the issue to the interviewer. And who knows but probably would of been asked to the final round of interviews.  🤦
+Had I refreshed the browser tab for page 10 during the interview, I would have seen that the on-page content had changed, matching my downloaded results. That likely would have clarified the issue to the interviewer. And who knows but probably would of been asked to the final round of interviews.
 
 ## **What I Could Have Done Differently**
-- **During the interview:** Obviously refreshing the browser to verify discrepancies in real time would of basically ended the exercise on time 🤦
+- **During the interview:** Obviously refreshing the browser to verify discrepancies in real time would of basically ended the exercise on time 🤦 🤦 🤦 🤦 🤦
 - **In code:** Make the scraper more robust against mid-run changes by:
     - Gathering all image URLs and hashing page HTML **before** any downloads.
     - Downloading asynchronously to minimize execution time.
