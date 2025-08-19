@@ -1,8 +1,8 @@
-# 🐹 Pub/Sub System – Go (TCP)
+# 🇨 Pub/Sub System – C (TCP)
 
 
 
-This is a sample solution to Dev Challenge 003: a lightweight Publish/Subscribe messaging system implemented in Go using TCP sockets.
+This is a sample solution to Dev Challenge 003: a lightweight Publish/Subscribe messaging system implemented in C using TCP sockets.
 
 It features:
 
