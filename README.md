@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 17 - Page Peelers ](./week17_page_peelers)**
+**[Week 18 - Pascals Pascal Triangle](./week18_pascals_pascal_triangle)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 17 - Page Peelers ](./week17_page_peelers)
 - [Week 16 - Pen and Paper ](./week16_pen_and_paper)
 - [Week 15 - Terminal Exorcism ](./week15_terminal_exorcism)
 - [Week 14 - Now gimme my money ](./week14_now_gimme_my_money)
