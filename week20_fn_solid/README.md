@@ -1,4 +1,4 @@
-# 💪 Week [20] - Fn(SOLID): A Solid Function ... or does it mean: F*ckn Solid?
+# 💪 Week [20] - Fn(SOLID): A Solid Function ... or does it mean "F*ckn Solid?"
 
 
 ## 📝 Challenge Overview
