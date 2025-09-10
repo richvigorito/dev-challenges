@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 20 - FN(solid)](./week20_fn_solid)**
+**[Week 21 - Dennis Ritchie](./week20_dennis_ritchie)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 20 - FN(solid)](./week20_fn_solid)
 - [Week 19 - Shunting Yard](./week19_shunting_yard_algo)
 - [Week 18 - Pascals Pascal Triangle](./week18_pascals_pascal_triangle)
 - [Week 17 - Page Peelers ](./week17_page_peelers)
