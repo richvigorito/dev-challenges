@@ -6,7 +6,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 21 - Dennis Ritchie](./week20_dennis_ritchie)**
+**[Week 21 - Dennis Ritchie](./week21_dennis_ritchie)**
 
 ### 🗂 All Challenges
 
