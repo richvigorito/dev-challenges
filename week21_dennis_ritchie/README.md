@@ -10,7 +10,7 @@ This week’s challenge is a **nod to classic C programming**. You don’t need 
 
 You can attempt **all three** or just pick a subset. These exercises are inspired by classic C snippets that shaped the programming world. We’ll use **pseudo code** to guide you. You'll want to download the [The C Programming Language](https://raw.githubusercontent.com/auspbro/ebook-c/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf) pdf
 
-1️⃣ H[The worlds most famous program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
+1️⃣ [The worlds most famous program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
 
 ```c
 // Pseudo code:
