@@ -1,14 +1,14 @@
 # Week 22: "C" what they're sayin' at the pub/sub pub
 
-Last week we revisited some easy yet functions in C from (The C Programming Language)[https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131101633] (shoutout to Dennis Ritchie). One of them — 
+Last week we revisited some relatively easy functions in C from this old masterpiece: [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131101633] (shoutout to Dennis Ritchie). One of them — 
 ```c 
 while ((c = getchar()) != EOF) putchar(c);
 ```
 — is basically the DNA of a pub/sub broker: read, forward, repeat.
 
 This week we’re building on:
-- Week 1’s (Pub/Sub Broker)[../week1_gossip_spreads] challenge and
-- Last week’s (C mini-functions)[../week21_dennis_ritchie] challenge.
+- Week 1’s [Pub/Sub Broker](../week1_gossip_spreads) challenge and
+- Last week’s [C mini-functions](../week21_dennis_ritchie) challenge.
 
 ---
 
