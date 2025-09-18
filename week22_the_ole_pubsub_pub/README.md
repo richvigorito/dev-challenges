@@ -1,6 +1,6 @@
 # Week 22: "C" what they're sayin' at the pub/sub pub
 
-Last week we revisited some relatively easy functions in C from this old masterpiece: [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131101633] (shoutout to Dennis Ritchie). One of them — 
+Last week we revisited some relatively easy functions in C from this old masterpiece: [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131101633) (shoutout to Dennis Ritchie). One of them — 
 ```c 
 while ((c = getchar()) != EOF) putchar(c);
 ```
