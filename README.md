@@ -6,11 +6,12 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 21 - Dennis Ritchie](./week21_dennis_ritchie)**
+**[Week 22 - Ye Ole PubSub Pub](./week22_the_ole_pubsub_pub)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
+- [Week 21 - Dennis Ritchie](./week21_dennis_ritchie)
 - [Week 20 - FN(solid)](./week20_fn_solid)
 - [Week 19 - Shunting Yard](./week19_shunting_yard_algo)
 - [Week 18 - Pascals Pascal Triangle](./week18_pascals_pascal_triangle)
