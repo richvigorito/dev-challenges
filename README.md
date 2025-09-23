@@ -10,29 +10,14 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 #### ✅ Completed Challenges
 
-| Week 21 | | | |
-|---------|---|---|---|
-| [Dennis Ritchie](challenges/week21_dennis_ritchie) | | | |
-
-| Week 17 | Week 18 | Week 19 | Week 20 |
-|---------|---------|---------|---------|
-| [Page Peelers](challenges/week17_page_peelers) | [Pascals Pascal Triangle](challenges/week18_pascals_pascal_triangle) | [Shunting Yard](challenges/week19_shunting_yard_algo) | [FN(solid)](challenges/week20_fn_solid) |
-
-| Week 13 | Week 14 | Week 15 | Week 16 |
-|---------|---------|---------|---------|
-| [The Greatest Programming Book Written. Ever.](challenges/week13_greatest_programming_book_ever_written) | [Now gimme my money](challenges/week14_now_gimme_my_money) | [Terminal Exorcism](challenges/week15_terminal_exorcism) | [Pen and Paper](challenges/week16_pen_and_paper) |
-
-| Week 9 | Week 10 | Week 11 | Week 12 |
-|--------|---------|---------|---------|
-| [We Need To Go Deeper](challenges/week9_inception) | [XOR FTW](challenges/week10_xor_ftw) | [We're in!](challenges/week11_we_are_in) | [Access Granted](challenges/week12_access_granted) |
-
-| Week 5 | Week 6 | Week 7 | Week 8 |
-|--------|--------|--------|--------|
-| [Swappin Aint Easy](challenges/week5_swappin_aint_easy) | [Stay Solid Friends](challenges/week6_stay_solid_friends) | [A Variable Says What?](challenges/week7_a_variable_says_what) | [Red Solo Cups](challenges/week8_red_solo_cups) |
-
-| Week 1 | Week 2 | Week 3 | Week 4 |
-|--------|--------|--------|--------|
-| [Gossip Spreads](challenges/week1_gossip_spreads) | [Join The Conga Line](challenges/week2_the_conga_line) | [This Math Aint Math'n](challenges/week3_this_math_aint_mathin) | [Wilt Chamberlain's 100 Point Game](challenges/week4_wiltchamberlains_100_point_game) |
+| | | | |
+|---|---|---|---|
+| Week21 -> [Dennis Ritchie](challenges/week21_dennis_ritchie) | | | |
+| Week20 -> [FN(solid)](challenges/week20_fn_solid) | Week19 -> [Shunting Yard](challenges/week19_shunting_yard_algo) | Week18 -> [Pascals Pascal Triangle](challenges/week18_pascals_pascals_triangle) | Week17 -> [Page Peelers](challenges/week17_page_peelers) |
+| Week16 -> [Pen and Paper](challenges/week16_pen_and_paper) | Week15 -> [Terminal Exorcism](challenges/week15_terminal_exorcism) | Week14 -> [Now gimme my money](challenges/week14_now_gimme_my_money) | Week13 -> [The Greatest Programming Book Written. Ever.](challenges/week13_greatest_programming_book_ever_written) |
+| Week12 -> [Access Granted](challenges/week12_access_granted) | Week11 -> [We're in!](challenges/week11_we_are_in) | Week10 -> [XOR FTW](challenges/week10_xor_ftw) | Week9 -> [We Need To Go Deeper](challenges/week9_inception) |
+| Week8 -> [Red Solo Cups](challenges/week8_red_solo_cups) | Week7 -> [A Variable Says What?](challenges/week7_a_variable_says_what) | Week6 -> [Stay Solid Friends](challenges/week6_stay_solid_friends) | Week5 -> [Swappin Aint Easy](challenges/week5_swappin_aint_easy) |
+| Week4 -> [Wilt Chamberlain's 100 Point Game](challenges/week4_wiltchamberlains_100_point_game) | Week3 -> [This Math Aint Math'n](challenges/week3_this_math_aint_mathin) | Week2 -> [Join The Conga Line](challenges/week2_the_conga_line) | Week1 -> [Gossip Spreads](challenges/week1_gossip_spreads) |
 
 ---
 
