@@ -6,32 +6,32 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 22 - Ye Ole PubSub Pub](./week22_the_ole_pubsub_pub)**
+**[Week 22 - Ye Ole PubSub Pub](challenges/week22_the_ole_pubsub_pub)**
 
 ### 🗂 All Challenges
 
 #### ✅ Completed Challenges
-- [Week 21 - Dennis Ritchie](./week21_dennis_ritchie)
-- [Week 20 - FN(solid)](./week20_fn_solid)
-- [Week 19 - Shunting Yard](./week19_shunting_yard_algo)
-- [Week 18 - Pascals Pascal Triangle](./week18_pascals_pascal_triangle)
-- [Week 17 - Page Peelers ](./week17_page_peelers)
-- [Week 16 - Pen and Paper ](./week16_pen_and_paper)
-- [Week 15 - Terminal Exorcism ](./week15_terminal_exorcism)
-- [Week 14 - Now gimme my money ](./week14_now_gimme_my_money)
-- [Week 13 - The Greatest Programming Book Written. Ever.](./week13_greatest_programming_book_ever_written)
-- [Week 12 - Access Granted](./week12_access_granted)
-- [Week 11 - We're in!](./week11_we_are_in)
-- [Week 10 - XOR FTW](./week10_xor_ftw) 
-- [Week 9 - We Need To Go Deeper](./week9_inception)
-- [Week 8 - Red Solo Cups](./week8_red_solo_cups)
-- [Week 7 - A Variable Says What?](./week7_a_variable_says_what)
-- [Week 6 - Stay Solid Friends](./week6_stay_solid_friends)
-- [Week 5 - Swappin Aint Easy](./week5_swappin_aint_easy)
-- [Week 4 - Wilt Chamberlain's 100 Point Game](./week4_wiltchamberlains_100_point_game)
-- [Week 3 - This Math Aint Math'n](./week3_this_math_aint_mathin)
-- [Week 2 - Join The Conga Line](./week2_the_conga_line)
-- [Week 1 - Gossip Spreads](./week1_gossip_spreads)
+- [Week 21 - Dennis Ritchie](challenges/week21_dennis_ritchie)
+- [Week 20 - FN(solid)](challenges/week20_fn_solid)
+- [Week 19 - Shunting Yard](challenges/week19_shunting_yard_algo)
+- [Week 18 - Pascals Pascal Triangle](challenges/week18_pascals_pascal_triangle)
+- [Week 17 - Page Peelers ](challenges/week17_page_peelers)
+- [Week 16 - Pen and Paper ](challenges/week16_pen_and_paper)
+- [Week 15 - Terminal Exorcism ](challenges/week15_terminal_exorcism)
+- [Week 14 - Now gimme my money ](challenges/week14_now_gimme_my_money)
+- [Week 13 - The Greatest Programming Book Written. Ever.](challenges/week13_greatest_programming_book_ever_written)
+- [Week 12 - Access Granted](challenges/week12_access_granted)
+- [Week 11 - We're in!](challenges/week11_we_are_in)
+- [Week 10 - XOR FTW](challenges/week10_xor_ftw) 
+- [Week 9 - We Need To Go Deeper](challenges/week9_inception)
+- [Week 8 - Red Solo Cups](challenges/week8_red_solo_cups)
+- [Week 7 - A Variable Says What?](challenges/week7_a_variable_says_what)
+- [Week 6 - Stay Solid Friends](challenges/week6_stay_solid_friends)
+- [Week 5 - Swappin Aint Easy](challenges/week5_swappin_aint_easy)
+- [Week 4 - Wilt Chamberlain's 100 Point Game](challenges/week4_wiltchamberlains_100_point_game)
+- [Week 3 - This Math Aint Math'n](challenges/week3_this_math_aint_mathin)
+- [Week 2 - Join The Conga Line](challenges/week2_the_conga_line)
+- [Week 1 - Gossip Spreads](challenges/week1_gossip_spreads)
 
 #### 🔜 Upcoming Challenges
 - The Greatest Programming Book Ever Written

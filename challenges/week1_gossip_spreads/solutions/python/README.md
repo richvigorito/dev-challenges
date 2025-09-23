@@ -50,7 +50,7 @@ Opens a WebSocket connection to receive real-time messages published to that top
 You can test this with tools like:
 - [Websocketking.com](http://websocketking.com)
 - [hoppscotch.io](http://hoppscotch.io)
-- [sample react ui](/week3_pubsub/solutions/react_frontend)
+- [sample react ui](../react_frontend)
 
 Example URL:
 ```bash
