@@ -9,7 +9,7 @@ You’ve inherited an invoicing system with a pluggable `SumModule` component. T
 
 - Should we sum values **as-is with floats**?
 - Should we **convert to cents** and avoid FP altogether?
-- Would fancy algorithms like [Kahan summation](https://www.geeksforgeeks.org/dsa/kahan-summation-algorithm/), [improved Neumaier version](https://en.wikipedia.org/wiki/Kahan_summation_algorithm#Further_enhancements) or a language specific package/datatype that uses [arbitray precision](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) like ([go big](https://pkg.go.dev/math/big), [php bcmath](https://www.php.net/manual/en/book.bc.php0), [python decimal module](https://docs.python.org/3/library/decimal.html), etc) to reduce errors 'enough'?
+- Would fancy algorithms like [Kahan summation](https://www.geeksforgeeks.org/dsa/kahan-summation-algorithm/), [improved Neumaier version](https://en.wikipedia.org/wiki/Kahan_summation_algorithm#Further_enhancements) or a language specific package/datatype that uses [arbitray precision](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) like ([go big](https://pkg.go.dev/math/big), [php bcmath](https://www.php.net/manual/en/book.bc.php), [python decimal module](https://docs.python.org/3/library/decimal.html), etc) to reduce errors 'enough'?
 
 Your task: implement as many versions and compare!
 

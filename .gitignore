@@ -33,6 +33,7 @@ __pycache__/
 *.pyo
 *.pyd
 venv/
+*.venv/
 
 # === Java ===
 *.class

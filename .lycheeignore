@@ -1,0 +1,7 @@
+# Ignore local dev servers
+localhost
+127.0.0.1
+
+# Ignore external sites that block CI bots
+amazon.com
+leetcode.com

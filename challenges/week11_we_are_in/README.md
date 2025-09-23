@@ -20,7 +20,7 @@ But not before leaving behind **3 encrypted files** and a trail of questionable 
 
 Reverse-engineer and **crack the encrypted files** using the clues left behind by the vibe coder:
 
-- 🧠 Inference from [last week’s challenge](https://github.com/richvigorito/dev-challenges/tree/main/week10_xor_ftw)
+- 🧠 Inference from [last week’s challenge](../week10_xor_ftw)
 - ☕ And some cryptic desk remnants: a π mug, a worn copy of Hitchhiker’s Guide, and a note: “Et tu, Brute?”
 - 🧾 The vibe coder's commit history:
 
