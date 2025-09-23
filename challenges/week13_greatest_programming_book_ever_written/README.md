@@ -2,7 +2,7 @@
 
 ## 📝 Challenge Overview  
     
-In 2013, while taking an Algorithms course at Portland State University the professor [Dr. Herbert Mayer](https://de.wikipedia.org/wiki/Herbert_G._Mayer), a deeply respected authority in computer science, lifted this book and in his thick German accent said *"dis est de best programming book ever vritten."*; which I thought was incredible because 1) he just brought in the book in to show it off, it wasnt course material and 2) considering the [books that he wrote himself](https://www.amazon.com/Computers-Technology-Herbert-Mayer-Books/s?rh=n%3A5%2Cp_27%3AHerbert%2BMayer) figured it must of been good. I bought the book immediately, saw it was in Pascal, and closed immediately 😂😂😂. 
+In 2013, while taking an Algorithms course at Portland State University the professor [Dr. Herbert Mayer](https://de.wikipedia.org/wiki/Herbert_G._Mayer), a deeply respected authority in computer science, lifted this book and in his thick German accent said *"dis est de best programming book ever vritten."*; which I thought was incredible because 1) he just brought in the book in to show it off, it wasnt course material and 2) considering the [books that he wrote himself](https://www.amazon.com/stores/Herbert-G.-Mayer/author/B001KIAOAM) figured it must of been good. I bought the book immediately, saw it was in Pascal, and closed immediately 😂😂😂. 
 
 Well today we're gonna learn some Pascal together so we can enjoy this ancient masterpiece. 
 
