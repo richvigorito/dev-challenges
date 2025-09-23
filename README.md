@@ -8,39 +8,6 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 **[Week 22 - Ye Ole PubSub Pub](challenges/week22_the_ole_pubsub_pub)**
 
-### 🗂 All Challenges
-
-#### ✅ Completed Challenges
-- [Week 21 - Dennis Ritchie](challenges/week21_dennis_ritchie)
-- [Week 20 - FN(solid)](challenges/week20_fn_solid)
-- [Week 19 - Shunting Yard](challenges/week19_shunting_yard_algo)
-- [Week 18 - Pascals Pascal Triangle](challenges/week18_pascals_pascal_triangle)
-- [Week 17 - Page Peelers ](challenges/week17_page_peelers)
-- [Week 16 - Pen and Paper ](challenges/week16_pen_and_paper)
-- [Week 15 - Terminal Exorcism ](challenges/week15_terminal_exorcism)
-- [Week 14 - Now gimme my money ](challenges/week14_now_gimme_my_money)
-- [Week 13 - The Greatest Programming Book Written. Ever.](challenges/week13_greatest_programming_book_ever_written)
-- [Week 12 - Access Granted](challenges/week12_access_granted)
-- [Week 11 - We're in!](challenges/week11_we_are_in)
-- [Week 10 - XOR FTW](challenges/week10_xor_ftw) 
-- [Week 9 - We Need To Go Deeper](challenges/week9_inception)
-- [Week 8 - Red Solo Cups](challenges/week8_red_solo_cups)
-- [Week 7 - A Variable Says What?](challenges/week7_a_variable_says_what)
-- [Week 6 - Stay Solid Friends](challenges/week6_stay_solid_friends)
-- [Week 5 - Swappin Aint Easy](challenges/week5_swappin_aint_easy)
-- [Week 4 - Wilt Chamberlain's 100 Point Game](challenges/week4_wiltchamberlains_100_point_game)
-- [Week 3 - This Math Aint Math'n](challenges/week3_this_math_aint_mathin)
-- [Week 2 - Join The Conga Line](challenges/week2_the_conga_line)
-- [Week 1 - Gossip Spreads](challenges/week1_gossip_spreads)
-
-#### 🔜 Upcoming Challenges
-- The Greatest Programming Book Ever Written
-- Break out the Red Solos: FlipCup
-- Pancakes at the Coffeeshop
-- Whats the Secret Handshake
-- One digit at a time, no judgment!
-  ... and more to come!
-
 ---
 
 ## 💡 How it Works
@@ -86,6 +53,31 @@ These challenges are designed to be approachable yet thought-provoking. Sometime
 ## 🛠 Solutions
 For each challenge, I will provide at least **one solution** (sometimes multiple solutions) for you to review and learn from. Feel free to experiment with your own approaches!
 ⚠️ **Disclaimer**: Most the challenges I personally do as well. 1) I enjoy them and 2) find these small games good practice for languages im improving on. Some solutions, which will be limited to frontend solution code, may have been generated with the help of AI tools like ChatGPT; if they are they will be noted.  Always feel free to improve or experiment with your own code!
+
+#### ✅ Completed Challenges
+- [Week 21 - Dennis Ritchie](challenges/week21_dennis_ritchie)
+- [Week 20 - FN(solid)](challenges/week20_fn_solid)
+- [Week 19 - Shunting Yard](challenges/week19_shunting_yard_algo)
+- [Week 18 - Pascals Pascal Triangle](challenges/week18_pascals_pascal_triangle)
+- [Week 17 - Page Peelers ](challenges/week17_page_peelers)
+- [Week 16 - Pen and Paper ](challenges/week16_pen_and_paper)
+- [Week 15 - Terminal Exorcism ](challenges/week15_terminal_exorcism)
+- [Week 14 - Now gimme my money ](challenges/week14_now_gimme_my_money)
+- [Week 13 - The Greatest Programming Book Written. Ever.](challenges/week13_greatest_programming_book_ever_written)
+- [Week 12 - Access Granted](challenges/week12_access_granted)
+- [Week 11 - We're in!](challenges/week11_we_are_in)
+- [Week 10 - XOR FTW](challenges/week10_xor_ftw) 
+- [Week 9 - We Need To Go Deeper](challenges/week9_inception)
+- [Week 8 - Red Solo Cups](challenges/week8_red_solo_cups)
+- [Week 7 - A Variable Says What?](challenges/week7_a_variable_says_what)
+- [Week 6 - Stay Solid Friends](challenges/week6_stay_solid_friends)
+- [Week 5 - Swappin Aint Easy](challenges/week5_swappin_aint_easy)
+- [Week 4 - Wilt Chamberlain's 100 Point Game](challenges/week4_wiltchamberlains_100_point_game)
+- [Week 3 - This Math Aint Math'n](challenges/week3_this_math_aint_mathin)
+- [Week 2 - Join The Conga Line](challenges/week2_the_conga_line)
+- [Week 1 - Gossip Spreads](challenges/week1_gossip_spreads)
+
+
 
 ---
 ## 📢 Want to Contribute?
