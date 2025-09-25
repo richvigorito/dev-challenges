@@ -6,7 +6,7 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[# 23 - The Queue Cafe](challenges/week23_cafe_queue)**
+**[Week 23 - The Queue Cafe](challenges/week23_cafe_queue)**
 
 #### ✅ Completed Challenges
 
