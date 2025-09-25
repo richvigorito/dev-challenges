@@ -6,13 +6,13 @@ The challenges will be released weekly and come in different formats: head-to-he
 
 ## 🆕 Latest Challenge
 
-**[Week 22 - Ye Ole PubSub Pub](challenges/week22_the_ole_pubsub_pub)**
+**[Week 23 - The Queue Cafe](challenges/week23_cafe_queue)**
 
 #### ✅ Completed Challenges
 
 | | | | |
 |---|---|---|---|
-| Week21 -> [Dennis Ritchie](challenges/week21_dennis_ritchie) | | | |
+| [Week 22 - Ye Ole PubSub Pub](challenges/week22_the_ole_pubsub_pub) | [Week21 - Dennis Ritchie](challenges/week21_dennis_ritchie) | | |
 | Week20 -> [FN(solid)](challenges/week20_fn_solid) | Week19 -> [Shunting Yard](challenges/week19_shunting_yard_algo) | Week18 -> [Pascals Pascal Triangle](challenges/week18_pascals_pascal_triangle) | Week17 -> [Page Peelers](challenges/week17_page_peelers) |
 | Week16 -> [Pen and Paper](challenges/week16_pen_and_paper) | Week15 -> [Terminal Exorcism](challenges/week15_terminal_exorcism) | Week14 -> [Now gimme my money](challenges/week14_now_gimme_my_money) | Week13 -> [The Greatest Programming Book Written. Ever.](challenges/week13_greatest_programming_book_ever_written) |
 | Week12 -> [Access Granted](challenges/week12_access_granted) | Week11 -> [We're in!](challenges/week11_we_are_in) | Week10 -> [XOR FTW](challenges/week10_xor_ftw) | Week9 -> [We Need To Go Deeper](challenges/week9_inception) |
