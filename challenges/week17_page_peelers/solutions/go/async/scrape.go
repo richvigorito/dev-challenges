@@ -30,8 +30,6 @@ type Page struct {
 	Images      []string
 }
 
-type Option func(*colly.Collector)
-
 func NewSiteScraper(c *colly.Collector) *SiteScraper {
 	return &SiteScraper{
 		BaseCollector: c,
