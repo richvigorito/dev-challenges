@@ -5,3 +5,4 @@ localhost
 # Ignore external sites that block CI bots
 amazon.com
 leetcode.com
+x.com
