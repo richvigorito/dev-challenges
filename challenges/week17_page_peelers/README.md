@@ -24,4 +24,4 @@ Write a script that:
 ---
 
 ## **Solution and My Failed Interview**
-The inspiration for this challenge was actually a recent interview I did and despite correctly completing the task with 10 minutes to spared in the interview I was still rejected. My redacted interview solution, interview retrospectvie, as well an improved version of my interview script are located in the [solution directory](./solution). 
+The inspiration for this challenge was actually a recent interview I did and despite correctly completing the task with 10 minutes to spared in the interview I was still rejected. My redacted interview solution, interview retrospectvie, as well an improved version of my interview script are located in the [solution directory](./solutions). 
