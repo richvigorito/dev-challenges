@@ -99,7 +99,7 @@ after_hashes, _ = parse()
 compareHashes(hashes, after_hashes)
 detectDuplicates(images)
 ```
-The complete/improved can be see at [here: scrape.py](scrape.py)
+The complete/improved can be see at [here: scrape.py](python/scrape.py)
 
 ## **Final Thoughts**
 Did I have a correct, working solution? Yes.  

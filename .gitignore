@@ -76,6 +76,10 @@ target/
 *.test
 *.out
 
+# === Scraper Output ===
+Downloads/
+downloads/
+
 # === Misc ===
 .vscode/
 .idea/
